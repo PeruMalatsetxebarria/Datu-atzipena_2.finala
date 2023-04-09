@@ -48,7 +48,7 @@ public class Csva {
             jatetxeak = new Jatetxeak();
             while ((l = inputStream.readLine()) != null) {
                 String[] eremuak = l.split(banatzailea);
-                if (!eremuak[0].equals("MENDIA")) {
+                if (!eremuak[0].equals("JATETXEA")) {
                     Jatetxea jatetxea = new Jatetxea();
                     //jatetxea.setId(jatetxeak.getJatetxeak() == null ? 0 : jatetxeak.getJatetxeak().size());
                     jatetxea.setURL(eremuak[0]);
@@ -85,11 +85,11 @@ public class Csva {
         try (PrintWriter outputStream = new PrintWriter(new FileWriter(strFileOut))) {
             for (Jatetxea m : jatetxeak.getJatetxeak()) {
                 if (mendiKopurua==0){
-                    outputStream.println("MENDIA;ALTUERA;PROBINTZIA");
+                    outputStream.println("id; URL; address; address line 2; name; outcode; postcode; rating; type of food");
                 }
                 mendiKopurua++;
                 
-                outputStream.println(m.getURL()+";"+m.getAddress()+";"+m.getName());
+                outputStream.println(m.getId()+";"+m.getURL()+";"+m.getAddress()+";"+m.getAddress_line_2()+";"+m.getName()+";"+m.getOutcode()+";"+m.getPostcode()+";"+m.getRating()+";"+m.getType_of_food());
             }
         } catch (IOException e) {
             System.out.println(strFileOut + " fitxategiarekin arazoren bat egon da.");

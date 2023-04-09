@@ -5,7 +5,7 @@ import jakarta.xml.bind.annotation.XmlElement;
 import jakarta.xml.bind.annotation.XmlRootElement;
 import jakarta.xml.bind.annotation.XmlType;
 
-@XmlType(propOrder = { "jatetxea", "altuera", "probintzia" })
+@XmlType(propOrder = { "URL", "id", "address", "address_line_2", "name", "outcode", "postcode", "rating", "type_of_food" })
 @XmlRootElement(name = "Jatetxea")
 
 public class Jatetxea {
@@ -102,5 +102,8 @@ public class Jatetxea {
         this.type_of_food = type_of_food;
     }
 
-
+    @Override
+    public String toString() {
+        return "Jatetxea["+ id+", "+URL+", "+address+", "+address_line_2+", "+name+", "+outcode+", "+postcode+", "+rating+", "+type_of_food+"]";
+    }
 }

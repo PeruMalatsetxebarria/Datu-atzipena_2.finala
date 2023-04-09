@@ -1,2 +1,1203 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Jatetxeak/>
+<Jatetxeak>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-cn-chinese-cardiff/menu</URL>
+        <Address>228 City Road</Address>
+        <Address_line_2>Cardiff</Address_line_2>
+        <Name>.CN Chinese</Name>
+        <Outcode>CF24</Outcode>
+        <Postcode>3JH</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-atthai-ss9/menu</URL>
+        <Address>376 Rayleigh Road</Address>
+        <Address_line_2>Essex</Address_line_2>
+        <Name>@ Thai</Name>
+        <Outcode>SS9</Outcode>
+        <Postcode>5PT</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Thai</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-atthairestaurant/menu</URL>
+        <Address>30 Greyhound Road Hammersmith</Address>
+        <Address_line_2>London</Address_line_2>
+        <Name>@ Thai Restaurant</Name>
+        <Outcode>W6</Outcode>
+        <Postcode>8NX</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Thai</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-atthairestaurant/menu</URL>
+        <Address>30 Greyhound Road Hammersmith</Address>
+        <Address_line_2>London</Address_line_2>
+        <Name>@ Thai Restaurant</Name>
+        <Outcode>W6</Outcode>
+        <Postcode>8NX</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Thai</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-indiancom-ch4/menu</URL>
+        <Address>9 Broughton Hall Road</Address>
+        <Address_line_2>Broughton</Address_line_2>
+        <Name>@Indian.com</Name>
+        <Outcode>CH4</Outcode>
+        <Postcode>0QR</Postcode>
+        <Rating>6</Rating>
+        <Type_of_food>Curry</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-007takeaway-s65/menu</URL>
+        <Address>6 Drummond Street</Address>
+        <Address_line_2>Rotherham</Address_line_2>
+        <Name>007 Takeaway</Name>
+        <Outcode>S65</Outcode>
+        <Postcode>1HY</Postcode>
+        <Rating>6</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-042-restaurant-e11/menu</URL>
+        <Address>885 High Road Leytonstone</Address>
+        <Address_line_2>London</Address_line_2>
+        <Name>042 Restaurant Bar</Name>
+        <Outcode>E11</Outcode>
+        <Postcode>1HR</Postcode>
+        <Rating>3</Rating>
+        <Type_of_food>African</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-042-restaurant-e11/menu</URL>
+        <Address>885 High Road Leytonstone</Address>
+        <Address_line_2>London</Address_line_2>
+        <Name>042 Restaurant Bar</Name>
+        <Outcode>E11</Outcode>
+        <Postcode>1HR</Postcode>
+        <Rating>3</Rating>
+        <Type_of_food>African</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-042-restaurant-e11/menu</URL>
+        <Address>885 High Road Leytonstone</Address>
+        <Address_line_2>London</Address_line_2>
+        <Name>042 Restaurant Bar</Name>
+        <Outcode>E11</Outcode>
+        <Postcode>1HR</Postcode>
+        <Rating>3</Rating>
+        <Type_of_food>African</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-1-2-3-chinese-rowlands-gill/menu</URL>
+        <Address>Unit 4 Spencer House</Address>
+        <Address_line_2>Swalwell</Address_line_2>
+        <Name>1 2 3 Chinese</Name>
+        <Outcode>NE16</Outcode>
+        <Postcode>3DS</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-1-2-3-chinese-rowlands-gill/menu</URL>
+        <Address>Unit 4 Spencer House</Address>
+        <Address_line_2>Swalwell</Address_line_2>
+        <Name>1 2 3 Chinese</Name>
+        <Outcode>NE16</Outcode>
+        <Postcode>3DS</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-100-degrees-chinese-restaurant-pontypridd/menu</URL>
+        <Address>67 Park Street</Address>
+        <Address_line_2>Treforest</Address_line_2>
+        <Name>100 Degrees Chinese Restaurant</Name>
+        <Outcode>CF37</Outcode>
+        <Postcode>1SN</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-100menu-wn1/menu</URL>
+        <Address>50 Wallgate</Address>
+        <Address_line_2>Wigan</Address_line_2>
+        <Name>100 Menu</Name>
+        <Outcode>WN1</Outcode>
+        <Postcode>1JU</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-104-turkish-BBQ/menu</URL>
+        <Address>104 Tanners Lane</Address>
+        <Address_line_2>Essex</Address_line_2>
+        <Name>104 Turkish BBQ</Name>
+        <Outcode>IG6</Outcode>
+        <Postcode>1QE</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Turkish</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-109restaurant-w2/menu</URL>
+        <Address>109 Westbourne Park Road</Address>
+        <Address_line_2>London</Address_line_2>
+        <Name>109 Ristorante</Name>
+        <Outcode>W2</Outcode>
+        <Postcode>5QL</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-113-fish-bar-wallasey/menu</URL>
+        <Address>113 Poulton Road</Address>
+        <Address_line_2>Merseyside</Address_line_2>
+        <Name>113 Fish Bar</Name>
+        <Outcode>CH44</Outcode>
+        <Postcode>9DE</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-133-takeaway-irvine/menu</URL>
+        <Address>133 Fullarton Street</Address>
+        <Address_line_2>Irvine</Address_line_2>
+        <Name>133 Takeaway</Name>
+        <Outcode>KA12</Outcode>
+        <Postcode>8DG</Postcode>
+        <Rating>8</Rating>
+        <Type_of_food>Breakfast</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-1498thespiceaffair-pe11/menu</URL>
+        <Address>Red Lion Hotel</Address>
+        <Address_line_2>Spalding</Address_line_2>
+        <Name>1498 The Spice Affair</Name>
+        <Outcode>PE11</Outcode>
+        <Postcode>1SU</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Curry</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-168chinese-ls18/menu</URL>
+        <Address>17 Alexandra Road</Address>
+        <Address_line_2>West Yorkshire</Address_line_2>
+        <Name>168 Chinese Cantonese Takeaway</Name>
+        <Outcode>LS18</Outcode>
+        <Postcode>4HE</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-1awok-pa7/menu</URL>
+        <Address>Unit 2 30 Greenock Road</Address>
+        <Address_line_2>Bishopton</Address_line_2>
+        <Name>1A Wok</Name>
+        <Outcode>PA7</Outcode>
+        <Postcode>5JN</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-1pizza1com-ls26/menu</URL>
+        <Address>160 Leeds Road</Address>
+        <Address_line_2>Leeds</Address_line_2>
+        <Name>1pizza1</Name>
+        <Outcode>LS26</Outcode>
+        <Postcode>0JH</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-1st-choice-pizza-ws11/menu</URL>
+        <Address>1 Walsall Road</Address>
+        <Address_line_2>Cannock</Address_line_2>
+        <Name>1st Choice Pizza</Name>
+        <Outcode>WS11</Outcode>
+        <Postcode>0HG</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-1stclasspizza-bs7/menu</URL>
+        <Address>388 Filton Avenue</Address>
+        <Address_line_2>Bristol</Address_line_2>
+        <Name>1st Class Pizza</Name>
+        <Outcode>BS7</Outcode>
+        <Postcode>0BE</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-1stclasspizza-bs7/menu</URL>
+        <Address>388 Filton Avenue</Address>
+        <Address_line_2>Bristol</Address_line_2>
+        <Name>1st Class Pizza</Name>
+        <Outcode>BS7</Outcode>
+        <Postcode>0BE</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-1stclasspizza-ng18/menu</URL>
+        <Address>70 Carter Lane</Address>
+        <Address_line_2>Mansfield</Address_line_2>
+        <Name>1st Class Pizza</Name>
+        <Outcode>NG18</Outcode>
+        <Postcode>3DH</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-1st-class-pizza-and-kebab-house-nottingham/menu</URL>
+        <Address>470 Vernon Road</Address>
+        <Address_line_2>Old Basford</Address_line_2>
+        <Name>1st Class Pizza Kebab House</Name>
+        <Outcode>NG6</Outcode>
+        <Postcode>0AT</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-241-pizza-ol1/menu</URL>
+        <Address>137 Yorkshire Street</Address>
+        <Address_line_2>Oldham</Address_line_2>
+        <Name>2 4 1 Pizza</Name>
+        <Outcode>OL1</Outcode>
+        <Postcode>3TH</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-2for1pizza-le10/menu</URL>
+        <Address>19 Regent Street</Address>
+        <Address_line_2>Hinckley</Address_line_2>
+        <Name>2 for 1 Pizza Place</Name>
+        <Outcode>LE10</Outcode>
+        <Postcode>0AZ</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-2-spice/menu</URL>
+        <Address>2 Station Approach</Address>
+        <Address_line_2>Upminster</Address_line_2>
+        <Name>2 Spice</Name>
+        <Outcode>RM14</Outcode>
+        <Postcode>2TH</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Curry</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-1treatu-b26/menu</URL>
+        <Address>1776 Coventry Road</Address>
+        <Address_line_2>Birmingham</Address_line_2>
+        <Name>2 Treat U</Name>
+        <Outcode>B26</Outcode>
+        <Postcode>1PB</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-23rdstreetpizza-m14/menu</URL>
+        <Address>317 Wilmslow Road</Address>
+        <Address_line_2>Fallowfield</Address_line_2>
+        <Name>23rd Street Pizza</Name>
+        <Outcode>M14</Outcode>
+        <Postcode>6NW</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>American</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-23rdstreetpizza-m14/menu</URL>
+        <Address>317 Wilmslow Road</Address>
+        <Address_line_2>Fallowfield</Address_line_2>
+        <Name>23rd Street Pizza</Name>
+        <Outcode>M14</Outcode>
+        <Postcode>6NW</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>American</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-241-pizza/menu</URL>
+        <Address>107 King Richards Road</Address>
+        <Address_line_2>Leicester</Address_line_2>
+        <Name>241 Pizza</Name>
+        <Outcode>LE3</Outcode>
+        <Postcode>5QG</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-241pizza-m9/menu</URL>
+        <Address>8 Victoria Avenue</Address>
+        <Address_line_2>Manchester</Address_line_2>
+        <Name>241 Pizza</Name>
+        <Outcode>M9</Outcode>
+        <Postcode>6QL</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-241pizza-ne38/menu</URL>
+        <Address>22 Eddison Road</Address>
+        <Address_line_2>Newcastle</Address_line_2>
+        <Name>2-4-1 Pizza</Name>
+        <Outcode>NE38</Outcode>
+        <Postcode>8JH</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-241piza-m34/menu</URL>
+        <Address>88 Manchester Road</Address>
+        <Address_line_2>Manchester</Address_line_2>
+        <Name>2-4-1 Pizza</Name>
+        <Outcode>M34</Outcode>
+        <Postcode>3PR</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-241piza-m34/menu</URL>
+        <Address>88 Manchester Road</Address>
+        <Address_line_2>Manchester</Address_line_2>
+        <Name>2-4-1 Pizza</Name>
+        <Outcode>M34</Outcode>
+        <Postcode>3PR</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-280degreesafrican-nw6/menu</URL>
+        <Address>280 Kilburn High Road</Address>
+        <Address_line_2>London</Address_line_2>
+        <Name>280 Degrees African Nigerian Restaurant</Name>
+        <Outcode>NW6</Outcode>
+        <Postcode>2BY</Postcode>
+        <Rating>2</Rating>
+        <Type_of_food>African</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-280degreesafrican-nw6/menu</URL>
+        <Address>280 Kilburn High Road</Address>
+        <Address_line_2>London</Address_line_2>
+        <Name>280 Degrees African Nigerian Restaurant</Name>
+        <Outcode>NW6</Outcode>
+        <Postcode>2BY</Postcode>
+        <Rating>2</Rating>
+        <Type_of_food>African</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-3chefsfishbar-de21/menu</URL>
+        <Address>47 Roosevelt Avenue</Address>
+        <Address_line_2>Derby</Address_line_2>
+        <Name>3 Chef Fish Bar</Name>
+        <Outcode>DE21</Outcode>
+        <Postcode>6JR</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Fish Chips</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-3chefs-de23/menu</URL>
+        <Address>558 Burton Road</Address>
+        <Address_line_2>Littleover</Address_line_2>
+        <Name>3 Chefs</Name>
+        <Outcode>DE23</Outcode>
+        <Postcode>6FP</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>American</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-3in1dunoon-pa23/menu</URL>
+        <Address>45 Argyll Street DUNOON</Address>
+        <Address_line_2>Argyll</Address_line_2>
+        <Name>3 In 1 Dunoon</Name>
+        <Outcode>PA23</Outcode>
+        <Postcode>7HG</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Curry</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-3in1-indian-cuisine-g78/menu</URL>
+        <Address>58 Aurs Drive</Address>
+        <Address_line_2>Barrhead</Address_line_2>
+        <Name>3 in 1 Indian Chipshop Barrhead</Name>
+        <Outcode>G78</Outcode>
+        <Postcode>2LW</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>English</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-3in1xtra/menu</URL>
+        <Address>67-69 Elmbank Street</Address>
+        <Address_line_2>Glasgow</Address_line_2>
+        <Name>3 In 1 Xtra</Name>
+        <Outcode>G2</Outcode>
+        <Postcode>4PQ</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Curry</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-3in1xtra/menu</URL>
+        <Address>67-69 Elmbank Street</Address>
+        <Address_line_2>Glasgow</Address_line_2>
+        <Name>3 In 1 Xtra</Name>
+        <Outcode>G2</Outcode>
+        <Postcode>4PQ</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Curry</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-3in1xtra/menu</URL>
+        <Address>67-69 Elmbank Street</Address>
+        <Address_line_2>Glasgow</Address_line_2>
+        <Name>3 In 1 Xtra</Name>
+        <Outcode>G2</Outcode>
+        <Postcode>4PQ</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Curry</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-321/menu</URL>
+        <Address>148 St.Georges Road</Address>
+        <Address_line_2>Cheltenham</Address_line_2>
+        <Name>321 Pizzas, Kebabs Burgers</Name>
+        <Outcode>GL50</Outcode>
+        <Postcode>3EL</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-328chineseonline-cf81/menu</URL>
+        <Address>2-4 Commercial Street</Address>
+        <Address_line_2>Aberbargoed</Address_line_2>
+        <Name>328 Chinese Online</Name>
+        <Outcode>CF81</Outcode>
+        <Postcode>9BW</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-333-Chinese-FY4/menu</URL>
+        <Address>276 Waterloo Road</Address>
+        <Address_line_2>Blackpool</Address_line_2>
+        <Name>333 Chinese Takeaway</Name>
+        <Outcode>FY4</Outcode>
+        <Postcode>3AF</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-333Chinese-G13/menu</URL>
+        <Address>1550 Great Western Road</Address>
+        <Address_line_2>Glasgow</Address_line_2>
+        <Name>333 Chinese Takeaway</Name>
+        <Outcode>G13</Outcode>
+        <Postcode>1HJ</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-333Chinese-M11/menu</URL>
+        <Address>1276 Ashton Old Road</Address>
+        <Address_line_2>Manchester</Address_line_2>
+        <Name>333 Chinese Takeaway1</Name>
+        <Outcode>M11</Outcode>
+        <Postcode>1JJ</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-350wok-ws10/menu</URL>
+        <Address>136A Crankhall Lane</Address>
+        <Address_line_2>Wednesbury</Address_line_2>
+        <Name>350 Wok</Name>
+        <Outcode>WS10</Outcode>
+        <Postcode>0ED</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-350wok-ws10/menu</URL>
+        <Address>136A Crankhall Lane</Address>
+        <Address_line_2>Wednesbury</Address_line_2>
+        <Name>350 Wok</Name>
+        <Outcode>WS10</Outcode>
+        <Postcode>0ED</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-350wok-ws10/menu</URL>
+        <Address>136A Crankhall Lane</Address>
+        <Address_line_2>Wednesbury</Address_line_2>
+        <Name>350 Wok</Name>
+        <Outcode>WS10</Outcode>
+        <Postcode>0ED</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-4in1-Express-CH41/menu</URL>
+        <Address>122 Duke Street</Address>
+        <Address_line_2>Birkenhead</Address_line_2>
+        <Name>4 in 1 Express</Name>
+        <Outcode>CH41</Outcode>
+        <Postcode>8BT</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-4inlove-pe30/menu</URL>
+        <Address>10-12 Railway Road</Address>
+        <Address_line_2>Norfolk</Address_line_2>
+        <Name>4 in Love</Name>
+        <Outcode>PE30</Outcode>
+        <Postcode>1NE</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-4500-miles-from-delhi-bristol/menu</URL>
+        <Address>8 Colston Avenue</Address>
+        <Address_line_2>Bristol</Address_line_2>
+        <Name>4500 Miles From Delhi</Name>
+        <Outcode>BS1</Outcode>
+        <Postcode>4ST</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Curry</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-4seasonspizzaandgrill-dy3/menu</URL>
+        <Address>12-14 High Street</Address>
+        <Address_line_2>Dudley</Address_line_2>
+        <Name>4 Seasons Pizza Grill</Name>
+        <Outcode>DY3</Outcode>
+        <Postcode>1RW</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-4550milesfromdelhi-ng1/menu</URL>
+        <Address>41 Mount Street</Address>
+        <Address_line_2>Nottinghamshire</Address_line_2>
+        <Name>4550 Miles From Delhi - Collection Only</Name>
+        <Outcode>NG1</Outcode>
+        <Postcode>6HE</Postcode>
+        <Rating>8</Rating>
+        <Type_of_food>Curry</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-5in1-pr3/menu</URL>
+        <Address>23 Berry Lane</Address>
+        <Address_line_2>Longridge</Address_line_2>
+        <Name>5 In 1 Takeaway</Name>
+        <Outcode>PR3</Outcode>
+        <Postcode>3JA</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Curry</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-5n1-dd8/menu</URL>
+        <Address>126 Castle Street</Address>
+        <Address_line_2>Forfar</Address_line_2>
+        <Name>5 'N' 1</Name>
+        <Outcode>DD8</Outcode>
+        <Postcode>2HS</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Curry</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-5-star-chinese-archway/menu</URL>
+        <Address>362 Hornsey Road</Address>
+        <Address_line_2>London</Address_line_2>
+        <Name>5 Star Chinese</Name>
+        <Outcode>N19</Outcode>
+        <Postcode>4HD</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-5-star-chinese-archway/menu</URL>
+        <Address>362 Hornsey Road</Address>
+        <Address_line_2>London</Address_line_2>
+        <Name>5 Star Chinese</Name>
+        <Outcode>N19</Outcode>
+        <Postcode>4HD</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-5-star-falafel--gh-butchers-kingsbury/menu</URL>
+        <Address>423 Kingsbury Road</Address>
+        <Address_line_2>London</Address_line_2>
+        <Name>5 Star Falafel @ GH Butchers</Name>
+        <Outcode>NW9</Outcode>
+        <Postcode>9DT</Postcode>
+        <Rating>8</Rating>
+        <Type_of_food>Lebanese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-5-star-falafel--gh-butchers-kingsbury/menu</URL>
+        <Address>423 Kingsbury Road</Address>
+        <Address_line_2>London</Address_line_2>
+        <Name>5 Star Falafel @ GH Butchers</Name>
+        <Outcode>NW9</Outcode>
+        <Postcode>9DT</Postcode>
+        <Rating>8</Rating>
+        <Type_of_food>Lebanese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-5-star-fish-bar/menu</URL>
+        <Address>103 Stafford Street</Address>
+        <Address_line_2>Walsall</Address_line_2>
+        <Name>5 Star Fish Bar</Name>
+        <Outcode>WS2</Outcode>
+        <Postcode>8DX</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>American</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-5starpizza-ha9/menu</URL>
+        <Address>379 High Road</Address>
+        <Address_line_2>Wembley</Address_line_2>
+        <Name>5 Star Pizza</Name>
+        <Outcode>HA9</Outcode>
+        <Postcode>6AA</Postcode>
+        <Rating>2</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-5starpizza-ha9/menu</URL>
+        <Address>379 High Road</Address>
+        <Address_line_2>Wembley</Address_line_2>
+        <Name>5 Star Pizza</Name>
+        <Outcode>HA9</Outcode>
+        <Postcode>6AA</Postcode>
+        <Rating>2</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-5starpizza-ha9/menu</URL>
+        <Address>379 High Road</Address>
+        <Address_line_2>Wembley</Address_line_2>
+        <Name>5 Star Pizza</Name>
+        <Outcode>HA9</Outcode>
+        <Postcode>6AA</Postcode>
+        <Rating>2</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-5starpizza-ha9/menu</URL>
+        <Address>379 High Road</Address>
+        <Address_line_2>Wembley</Address_line_2>
+        <Name>5 Star Pizza</Name>
+        <Outcode>HA9</Outcode>
+        <Postcode>6AA</Postcode>
+        <Rating>2</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-5starpizza-b70/menu</URL>
+        <Address>104 Hiltop Road</Address>
+        <Address_line_2>West Bromich</Address_line_2>
+        <Name>5 Star Pizza</Name>
+        <Outcode>B70</Outcode>
+        <Postcode>0SH</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-5starpizza-b70/menu</URL>
+        <Address>104 Hiltop Road</Address>
+        <Address_line_2>West Bromich</Address_line_2>
+        <Name>5 Star Pizza</Name>
+        <Outcode>B70</Outcode>
+        <Postcode>0SH</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-5starpizza-b70/menu</URL>
+        <Address>104 Hiltop Road</Address>
+        <Address_line_2>West Bromich</Address_line_2>
+        <Name>5 Star Pizza</Name>
+        <Outcode>B70</Outcode>
+        <Postcode>0SH</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-555hotcurry-ct12/menu</URL>
+        <Address>17-19 Northwood Road</Address>
+        <Address_line_2>Kent</Address_line_2>
+        <Name>555 Hot Curry</Name>
+        <Outcode>CT12</Outcode>
+        <Postcode>6RR</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Curry</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-555pizza-ct1/menu</URL>
+        <Address>72 Castle Street</Address>
+        <Address_line_2>Canterbury</Address_line_2>
+        <Name>555 Pizza</Name>
+        <Outcode>CT1</Outcode>
+        <Postcode>2QD</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-555pizzaandkebab-ct12/menu</URL>
+        <Address>15 Northwood Road</Address>
+        <Address_line_2>Kent</Address_line_2>
+        <Name>555 Pizza Kebab</Name>
+        <Outcode>CT12</Outcode>
+        <Postcode>6RR</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-57-orient-takeawayPR8/menu</URL>
+        <Address>81 Upper Aughton Road</Address>
+        <Address_line_2>Southport</Address_line_2>
+        <Name>57 Orient Takeaway</Name>
+        <Outcode>PR8</Outcode>
+        <Postcode>5ND</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-62worksop-s80/menu</URL>
+        <Address>62 Newcastle Avenue</Address>
+        <Address_line_2>Worksop</Address_line_2>
+        <Name>62 Worksop Fish Bar</Name>
+        <Outcode>S80</Outcode>
+        <Postcode>1LA</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Fish Chips</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-64pizzeria-ls4/menu</URL>
+        <Address>64 Burley Road</Address>
+        <Address_line_2>Leeds</Address_line_2>
+        <Name>64 Pizzeria</Name>
+        <Outcode>LS3</Outcode>
+        <Postcode>1JX</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-7andone-bt53/menu</URL>
+        <Address>3 Charles Street</Address>
+        <Address_line_2>County Antrim</Address_line_2>
+        <Name>7 One</Name>
+        <Outcode>BT53</Outcode>
+        <Postcode>6DX</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-7oaksgrilltn13/menu</URL>
+        <Address>127 St Johns Hill</Address>
+        <Address_line_2>Sevenoaks</Address_line_2>
+        <Name>7 Oaks Grill</Name>
+        <Outcode>TN13</Outcode>
+        <Postcode>3PE</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>English</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-7spices-s3/menu</URL>
+        <Address>Mayfair Court</Address>
+        <Address_line_2>Sheffield</Address_line_2>
+        <Name>7 Spices</Name>
+        <Outcode>S3</Outcode>
+        <Postcode>8PP</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Curry</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-7Spices-LS6/menu</URL>
+        <Address>203-205 Woodhouse Street</Address>
+        <Address_line_2>Leeds</Address_line_2>
+        <Name>7 Spices</Name>
+        <Outcode>LS6</Outcode>
+        <Postcode>2NY</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Curry</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-7spices-g32/menu</URL>
+        <Address>975 Carntyne Road</Address>
+        <Address_line_2>Glasgow</Address_line_2>
+        <Name>7 Spices Takeaway</Name>
+        <Outcode>G32</Outcode>
+        <Postcode>6LY</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Curry</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-7star-ne6/menu</URL>
+        <Address>824 Shields Road</Address>
+        <Address_line_2>Newcastle</Address_line_2>
+        <Name>7 STAR Pizza</Name>
+        <Outcode>NE6</Outcode>
+        <Postcode>4QN</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-7star-ne6/menu</URL>
+        <Address>824 Shields Road</Address>
+        <Address_line_2>Newcastle</Address_line_2>
+        <Name>7 STAR Pizza</Name>
+        <Outcode>NE6</Outcode>
+        <Postcode>4QN</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-7star-ne6/menu</URL>
+        <Address>824 Shields Road</Address>
+        <Address_line_2>Newcastle</Address_line_2>
+        <Name>7 STAR Pizza</Name>
+        <Outcode>NE6</Outcode>
+        <Postcode>4QN</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-7starspices-g52/menu</URL>
+        <Address>828 Mosspark Drive</Address>
+        <Address_line_2>Lanarkshire</Address_line_2>
+        <Name>7 Star Spices</Name>
+        <Outcode>G52</Outcode>
+        <Postcode>3DA</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-700degrees-gu51/menu</URL>
+        <Address>192-196 Fleet Road</Address>
+        <Address_line_2>Hampshire</Address_line_2>
+        <Name>700 Degrees</Name>
+        <Outcode>GU51</Outcode>
+        <Postcode>4BY</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Chicken</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-88-chinese-millbrook/menu</URL>
+        <Address>44 London Road</Address>
+        <Address_line_2>Southampton</Address_line_2>
+        <Name>88 Chinese</Name>
+        <Outcode>SO15</Outcode>
+        <Postcode>2AH</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-88noodlebar-hd1/menu</URL>
+        <Address>15 Cross Church Street</Address>
+        <Address_line_2>Huddersfield</Address_line_2>
+        <Name>88 Noodle Bar</Name>
+        <Outcode>HD1</Outcode>
+        <Postcode>2PY</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-888chinese-so23/menu</URL>
+        <Address>77 North Walls</Address>
+        <Address_line_2>Winchester</Address_line_2>
+        <Name>888 Chinese Takeaway</Name>
+        <Outcode>SO23</Outcode>
+        <Postcode>8DA</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-888tripleeight-bh9/menu</URL>
+        <Address>888 Wimborne Road</Address>
+        <Address_line_2>Bournemouth</Address_line_2>
+        <Name>888 Triple Eight</Name>
+        <Outcode>BH9</Outcode>
+        <Postcode>2DR</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-9cfc/menu</URL>
+        <Address>7 Shopping Precinct</Address>
+        <Address_line_2>Featherstone</Address_line_2>
+        <Name>9 Inch CFC</Name>
+        <Outcode>WF7</Outcode>
+        <Postcode>5BX</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-9thavenuepizzeria-bt78/menu</URL>
+        <Address>9 Dromore Road</Address>
+        <Address_line_2>Omagh</Address_line_2>
+        <Name>9th Avenue Pizzeria</Name>
+        <Outcode>BT78</Outcode>
+        <Postcode>1QZ</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-9thkitchen-b26/menu</URL>
+        <Address>397 Sheldon Heath Road</Address>
+        <Address_line_2>Sheldon</Address_line_2>
+        <Name>9th Kitchen</Name>
+        <Outcode>B26</Outcode>
+        <Postcode>2UB</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-A-G-Kitchen-M40/menu</URL>
+        <Address>267 Nuthurst Road</Address>
+        <Address_line_2>Manchester</Address_line_2>
+        <Name>A G Kitchen</Name>
+        <Outcode>M40</Outcode>
+        <Postcode>3PU</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Chinese</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-a-and-t-mundi-house-iffley/menu</URL>
+        <Address>64 Cowley Road</Address>
+        <Address_line_2></Address_line_2>
+        <Name>A T Mundi House</Name>
+        <Outcode>OX4</Outcode>
+        <Postcode>1JB</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Arabic</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-a-cake-a-shake-stockport/menu</URL>
+        <Address>8B - 12B Houldsworth Street</Address>
+        <Address_line_2>Stockport</Address_line_2>
+        <Name>A Cake A Shake</Name>
+        <Outcode>SK5</Outcode>
+        <Postcode>6DA</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Desserts</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-a-cake-a-shake-stockport/menu</URL>
+        <Address>8B - 12B Houldsworth Street</Address>
+        <Address_line_2>Stockport</Address_line_2>
+        <Name>A Cake A Shake</Name>
+        <Outcode>SK5</Outcode>
+        <Postcode>6DA</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Desserts</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-afishcalledrhondda-cf42/menu</URL>
+        <Address>19 - 20 Church Road</Address>
+        <Address_line_2>Mid Glamorgan</Address_line_2>
+        <Name>A Fish Called Rhondda</Name>
+        <Outcode>CF41</Outcode>
+        <Postcode>7ED</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>English</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-alapizza/menu</URL>
+        <Address>28 Upton Lane</Address>
+        <Address_line_2>London</Address_line_2>
+        <Name>A La Pizza</Name>
+        <Outcode>E7</Outcode>
+        <Postcode>9LN</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-alapizza/menu</URL>
+        <Address>28 Upton Lane</Address>
+        <Address_line_2>London</Address_line_2>
+        <Name>A La Pizza</Name>
+        <Outcode>E7</Outcode>
+        <Postcode>9LN</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-alaturka-pr7/menu</URL>
+        <Address>99 Market Street</Address>
+        <Address_line_2>Chorley</Address_line_2>
+        <Name>A La Turka</Name>
+        <Outcode>PR7</Outcode>
+        <Postcode>2SQ</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-ammians-bl1/menu</URL>
+        <Address>60 Great Moor Street</Address>
+        <Address_line_2>Bolton</Address_line_2>
+        <Name>A M Mians</Name>
+        <Outcode>BL1</Outcode>
+        <Postcode>1SN</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Kebab</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-ammians-bl1/menu</URL>
+        <Address>60 Great Moor Street</Address>
+        <Address_line_2>Bolton</Address_line_2>
+        <Name>A M Mians</Name>
+        <Outcode>BL1</Outcode>
+        <Postcode>1SN</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Kebab</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-amatteroftaste-po6/menu</URL>
+        <Address>7 Spur Road</Address>
+        <Address_line_2>Cosham</Address_line_2>
+        <Name>A Matter Of Taste</Name>
+        <Outcode>PO6</Outcode>
+        <Postcode>3DY</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-aonetandoori-ka21/menu</URL>
+        <Address>43 Hamilton Street</Address>
+        <Address_line_2>Ayrshire</Address_line_2>
+        <Name>A One Tandoori</Name>
+        <Outcode>KA21</Outcode>
+        <Postcode>5DT</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Curry</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-a-passage-to-india/menu</URL>
+        <Address>76 Bold Street</Address>
+        <Address_line_2>Liverpool</Address_line_2>
+        <Name>A Passage To India</Name>
+        <Outcode>L1</Outcode>
+        <Postcode>4HR</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Curry</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-apassagetoindia-sk22/menu</URL>
+        <Address>29 Union Road</Address>
+        <Address_line_2>Derbyshire</Address_line_2>
+        <Name>A Passage To India</Name>
+        <Outcode>SK22</Outcode>
+        <Postcode>3EL</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Curry</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-sealandfishbar-ct1/menu</URL>
+        <Address>71 Sturry Road</Address>
+        <Address_line_2>Canterbury</Address_line_2>
+        <Name>A Sealand Fish Bar - Collection Only</Name>
+        <Outcode>CT1</Outcode>
+        <Postcode>1BU</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Fish Chips</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-astarpizza-bl3/menu</URL>
+        <Address>289 Lever Street</Address>
+        <Address_line_2>Bolton</Address_line_2>
+        <Name>A Star Chippy</Name>
+        <Outcode>BL3</Outcode>
+        <Postcode>6PD</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Fish Chips</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-alibabas-wf13/menu</URL>
+        <Address>35 Wellington Road</Address>
+        <Address_line_2>Dewsbury</Address_line_2>
+        <Name>Ali Baba's</Name>
+        <Outcode>WF13</Outcode>
+        <Postcode>1HN</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-alibabaswn7/menu</URL>
+        <Address>7 Railways Road</Address>
+        <Address_line_2>Leigh</Address_line_2>
+        <Name>Ali Baba's</Name>
+        <Outcode>WN7</Outcode>
+        <Postcode>4AA</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-alibabasbalti-de14/menu</URL>
+        <Address>45 Branston Road</Address>
+        <Address_line_2>Staffordshire</Address_line_2>
+        <Name>Ali Babas Balti</Name>
+        <Outcode>DE14</Outcode>
+        <Postcode>3BS</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Curry</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-alibabas-ss6/menu</URL>
+        <Address>45 Eastwood Road</Address>
+        <Address_line_2>Rayleigh</Address_line_2>
+        <Name>Ali Baba's Kebab Pizza</Name>
+        <Outcode>SS6</Outcode>
+        <Postcode>7JE</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Kebab</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-alibabas-de14/menu</URL>
+        <Address>45 Branston Road</Address>
+        <Address_line_2>Burton-on-Trent</Address_line_2>
+        <Name>Ali Babas Pizza, Kebab Curries</Name>
+        <Outcode>DE14</Outcode>
+        <Postcode>3BS</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-alig/menu</URL>
+        <Address>11a Tower Street</Address>
+        <Address_line_2>York</Address_line_2>
+        <Name>Ali G´s</Name>
+        <Outcode>YO1</Outcode>
+        <Postcode>9SA</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-aligeez-ne3/menu</URL>
+        <Address>13 Mallowburn Cresent</Address>
+        <Address_line_2>Kenton</Address_line_2>
+        <Name>Ali Geez</Name>
+        <Outcode>NE3</Outcode>
+        <Postcode>3YL</Postcode>
+        <Rating>4</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+    <Jatetxea>
+        <URL>http://www.just-eat.co.uk/restaurants-ali-geez/menu</URL>
+        <Address>6 Wellington Street</Address>
+        <Address_line_2>Gateshead</Address_line_2>
+        <Name>Ali Geez Pizza Kebab</Name>
+        <Outcode>NE8</Outcode>
+        <Postcode>2AJ</Postcode>
+        <Rating>5</Rating>
+        <Type_of_food>Pizza</Type_of_food>
+    </Jatetxea>
+</Jatetxeak>

@@ -57,7 +57,11 @@ public class Jsona {
             for (int i = 0; i < jsonarray.size(); i++) {
                 JsonObject jsonobj = jsonarray.getJsonObject(i);
                 Jatetxea jatetxea = new Jatetxea();
-                jatetxea.setId(jsonobj.getString("id"));
+
+
+                //jatetxea.setId(jsonobj.getString("id"));
+
+                jatetxea.setURL(jsonobj.getString("URL"));
                 jatetxea.setAddress(jsonobj.getString("address"));
                 jatetxea.setAddress_line_2(jsonobj.getString("address_line_2"));
                 jatetxea.setName(jsonobj.getString("name"));
