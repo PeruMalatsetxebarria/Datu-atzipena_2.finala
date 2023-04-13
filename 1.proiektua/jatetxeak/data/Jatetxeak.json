@@ -1,7 +1,7 @@
 [
     {
+        "id": 1,
         "URL": "http://www.just-eat.co.uk/restaurants-cn-chinese-cardiff/menu",
-        "_id": 1,
         "address": "228 City Road",
         "address_line_2": "Cardiff",
         "name": ".CN Chinese",
@@ -11,8 +11,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 2,
         "URL": "http://www.just-eat.co.uk/restaurants-atthai-ss9/menu",
-        "_id": 2,
         "address": "376 Rayleigh Road",
         "address_line_2": "Essex",
         "name": "@ Thai",
@@ -22,8 +22,8 @@
         "type_of_food": "Thai"
     },
     {
+        "id": 3,
         "URL": "http://www.just-eat.co.uk/restaurants-atthairestaurant/menu",
-        "_id": 3,
         "address": "30 Greyhound Road Hammersmith",
         "address_line_2": "London",
         "name": "@ Thai Restaurant",
@@ -33,8 +33,8 @@
         "type_of_food": "Thai"
     },
     {
+        "id": 4,
         "URL": "http://www.just-eat.co.uk/restaurants-atthairestaurant/menu",
-        "_id": 4,
         "address": "30 Greyhound Road Hammersmith",
         "address_line_2": "London",
         "name": "@ Thai Restaurant",
@@ -44,8 +44,8 @@
         "type_of_food": "Thai"
     },
     {
+        "id": 5,
         "URL": "http://www.just-eat.co.uk/restaurants-indiancom-ch4/menu",
-        "_id": 5,
         "address": "9 Broughton Hall Road",
         "address_line_2": "Broughton",
         "name": "@Indian.com",
@@ -55,8 +55,8 @@
         "type_of_food": "Curry"
     },
     {
+        "id": 6,
         "URL": "http://www.just-eat.co.uk/restaurants-007takeaway-s65/menu",
-        "_id": 6,
         "address": "6 Drummond Street",
         "address_line_2": "Rotherham",
         "name": "007 Takeaway",
@@ -66,8 +66,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 7,
         "URL": "http://www.just-eat.co.uk/restaurants-042-restaurant-e11/menu",
-        "_id": 7,
         "address": "885 High Road Leytonstone",
         "address_line_2": "London",
         "name": "042 Restaurant Bar",
@@ -77,8 +77,8 @@
         "type_of_food": "African"
     },
     {
+        "id": 8,
         "URL": "http://www.just-eat.co.uk/restaurants-042-restaurant-e11/menu",
-        "_id": 8,
         "address": "885 High Road Leytonstone",
         "address_line_2": "London",
         "name": "042 Restaurant Bar",
@@ -88,8 +88,8 @@
         "type_of_food": "African"
     },
     {
+        "id": 9,
         "URL": "http://www.just-eat.co.uk/restaurants-042-restaurant-e11/menu",
-        "_id": 9,
         "address": "885 High Road Leytonstone",
         "address_line_2": "London",
         "name": "042 Restaurant Bar",
@@ -99,8 +99,8 @@
         "type_of_food": "African"
     },
     {
+        "id": 10,
         "URL": "http://www.just-eat.co.uk/restaurants-1-2-3-chinese-rowlands-gill/menu",
-        "_id": 10,
         "address": "Unit 4 Spencer House",
         "address_line_2": "Swalwell",
         "name": "1 2 3 Chinese",
@@ -110,8 +110,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 11,
         "URL": "http://www.just-eat.co.uk/restaurants-1-2-3-chinese-rowlands-gill/menu",
-        "_id": 11,
         "address": "Unit 4 Spencer House",
         "address_line_2": "Swalwell",
         "name": "1 2 3 Chinese",
@@ -121,8 +121,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 12,
         "URL": "http://www.just-eat.co.uk/restaurants-100-degrees-chinese-restaurant-pontypridd/menu",
-        "_id": 12,
         "address": "67 Park Street",
         "address_line_2": "Treforest",
         "name": "100 Degrees Chinese Restaurant",
@@ -132,8 +132,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 13,
         "URL": "http://www.just-eat.co.uk/restaurants-100menu-wn1/menu",
-        "_id": 13,
         "address": "50 Wallgate",
         "address_line_2": "Wigan",
         "name": "100 Menu",
@@ -143,8 +143,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 14,
         "URL": "http://www.just-eat.co.uk/restaurants-104-turkish-BBQ/menu",
-        "_id": 14,
         "address": "104 Tanners Lane",
         "address_line_2": "Essex",
         "name": "104 Turkish BBQ",
@@ -154,8 +154,8 @@
         "type_of_food": "Turkish"
     },
     {
+        "id": 15,
         "URL": "http://www.just-eat.co.uk/restaurants-109restaurant-w2/menu",
-        "_id": 15,
         "address": "109 Westbourne Park Road",
         "address_line_2": "London",
         "name": "109 Ristorante",
@@ -165,8 +165,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 16,
         "URL": "http://www.just-eat.co.uk/restaurants-113-fish-bar-wallasey/menu",
-        "_id": 16,
         "address": "113 Poulton Road",
         "address_line_2": "Merseyside",
         "name": "113 Fish Bar",
@@ -176,8 +176,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 17,
         "URL": "http://www.just-eat.co.uk/restaurants-133-takeaway-irvine/menu",
-        "_id": 17,
         "address": "133 Fullarton Street",
         "address_line_2": "Irvine",
         "name": "133 Takeaway",
@@ -187,8 +187,8 @@
         "type_of_food": "Breakfast"
     },
     {
+        "id": 18,
         "URL": "http://www.just-eat.co.uk/restaurants-1498thespiceaffair-pe11/menu",
-        "_id": 18,
         "address": "Red Lion Hotel",
         "address_line_2": "Spalding",
         "name": "1498 The Spice Affair",
@@ -198,8 +198,8 @@
         "type_of_food": "Curry"
     },
     {
+        "id": 19,
         "URL": "http://www.just-eat.co.uk/restaurants-168chinese-ls18/menu",
-        "_id": 19,
         "address": "17 Alexandra Road",
         "address_line_2": "West Yorkshire",
         "name": "168 Chinese Cantonese Takeaway",
@@ -209,8 +209,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 20,
         "URL": "http://www.just-eat.co.uk/restaurants-1awok-pa7/menu",
-        "_id": 20,
         "address": "Unit 2 30 Greenock Road",
         "address_line_2": "Bishopton",
         "name": "1A Wok",
@@ -220,8 +220,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 21,
         "URL": "http://www.just-eat.co.uk/restaurants-1pizza1com-ls26/menu",
-        "_id": 21,
         "address": "160 Leeds Road",
         "address_line_2": "Leeds",
         "name": "1pizza1",
@@ -231,8 +231,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 22,
         "URL": "http://www.just-eat.co.uk/restaurants-1st-choice-pizza-ws11/menu",
-        "_id": 22,
         "address": "1 Walsall Road",
         "address_line_2": "Cannock",
         "name": "1st Choice Pizza",
@@ -242,8 +242,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 23,
         "URL": "http://www.just-eat.co.uk/restaurants-1stclasspizza-bs7/menu",
-        "_id": 23,
         "address": "388 Filton Avenue",
         "address_line_2": "Bristol",
         "name": "1st Class Pizza",
@@ -253,8 +253,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 24,
         "URL": "http://www.just-eat.co.uk/restaurants-1stclasspizza-bs7/menu",
-        "_id": 24,
         "address": "388 Filton Avenue",
         "address_line_2": "Bristol",
         "name": "1st Class Pizza",
@@ -264,8 +264,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 25,
         "URL": "http://www.just-eat.co.uk/restaurants-1stclasspizza-ng18/menu",
-        "_id": 25,
         "address": "70 Carter Lane",
         "address_line_2": "Mansfield",
         "name": "1st Class Pizza",
@@ -275,8 +275,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 26,
         "URL": "http://www.just-eat.co.uk/restaurants-1st-class-pizza-and-kebab-house-nottingham/menu",
-        "_id": 26,
         "address": "470 Vernon Road",
         "address_line_2": "Old Basford",
         "name": "1st Class Pizza Kebab House",
@@ -286,8 +286,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 27,
         "URL": "http://www.just-eat.co.uk/restaurants-241-pizza-ol1/menu",
-        "_id": 27,
         "address": "137 Yorkshire Street",
         "address_line_2": "Oldham",
         "name": "2 4 1 Pizza",
@@ -297,8 +297,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 28,
         "URL": "http://www.just-eat.co.uk/restaurants-2for1pizza-le10/menu",
-        "_id": 28,
         "address": "19 Regent Street",
         "address_line_2": "Hinckley",
         "name": "2 for 1 Pizza Place",
@@ -308,8 +308,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 29,
         "URL": "http://www.just-eat.co.uk/restaurants-2-spice/menu",
-        "_id": 29,
         "address": "2 Station Approach",
         "address_line_2": "Upminster",
         "name": "2 Spice",
@@ -319,8 +319,8 @@
         "type_of_food": "Curry"
     },
     {
+        "id": 30,
         "URL": "http://www.just-eat.co.uk/restaurants-1treatu-b26/menu",
-        "_id": 30,
         "address": "1776 Coventry Road",
         "address_line_2": "Birmingham",
         "name": "2 Treat U",
@@ -330,8 +330,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 31,
         "URL": "http://www.just-eat.co.uk/restaurants-23rdstreetpizza-m14/menu",
-        "_id": 31,
         "address": "317 Wilmslow Road",
         "address_line_2": "Fallowfield",
         "name": "23rd Street Pizza",
@@ -341,8 +341,8 @@
         "type_of_food": "American"
     },
     {
+        "id": 32,
         "URL": "http://www.just-eat.co.uk/restaurants-23rdstreetpizza-m14/menu",
-        "_id": 32,
         "address": "317 Wilmslow Road",
         "address_line_2": "Fallowfield",
         "name": "23rd Street Pizza",
@@ -352,8 +352,8 @@
         "type_of_food": "American"
     },
     {
+        "id": 33,
         "URL": "http://www.just-eat.co.uk/restaurants-241-pizza/menu",
-        "_id": 33,
         "address": "107 King Richards Road",
         "address_line_2": "Leicester",
         "name": "241 Pizza",
@@ -363,8 +363,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 34,
         "URL": "http://www.just-eat.co.uk/restaurants-241pizza-m9/menu",
-        "_id": 34,
         "address": "8 Victoria Avenue",
         "address_line_2": "Manchester",
         "name": "241 Pizza",
@@ -374,8 +374,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 35,
         "URL": "http://www.just-eat.co.uk/restaurants-241pizza-ne38/menu",
-        "_id": 35,
         "address": "22 Eddison Road",
         "address_line_2": "Newcastle",
         "name": "2-4-1 Pizza",
@@ -385,8 +385,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 36,
         "URL": "http://www.just-eat.co.uk/restaurants-241piza-m34/menu",
-        "_id": 36,
         "address": "88 Manchester Road",
         "address_line_2": "Manchester",
         "name": "2-4-1 Pizza",
@@ -396,8 +396,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 37,
         "URL": "http://www.just-eat.co.uk/restaurants-241piza-m34/menu",
-        "_id": 37,
         "address": "88 Manchester Road",
         "address_line_2": "Manchester",
         "name": "2-4-1 Pizza",
@@ -407,8 +407,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 38,
         "URL": "http://www.just-eat.co.uk/restaurants-280degreesafrican-nw6/menu",
-        "_id": 38,
         "address": "280 Kilburn High Road",
         "address_line_2": "London",
         "name": "280 Degrees African Nigerian Restaurant",
@@ -418,8 +418,8 @@
         "type_of_food": "African"
     },
     {
+        "id": 39,
         "URL": "http://www.just-eat.co.uk/restaurants-280degreesafrican-nw6/menu",
-        "_id": 39,
         "address": "280 Kilburn High Road",
         "address_line_2": "London",
         "name": "280 Degrees African Nigerian Restaurant",
@@ -429,8 +429,8 @@
         "type_of_food": "African"
     },
     {
+        "id": 40,
         "URL": "http://www.just-eat.co.uk/restaurants-3chefsfishbar-de21/menu",
-        "_id": 40,
         "address": "47 Roosevelt Avenue",
         "address_line_2": "Derby",
         "name": "3 Chef Fish Bar",
@@ -440,8 +440,8 @@
         "type_of_food": "Fish Chips"
     },
     {
+        "id": 41,
         "URL": "http://www.just-eat.co.uk/restaurants-3chefs-de23/menu",
-        "_id": 41,
         "address": "558 Burton Road",
         "address_line_2": "Littleover",
         "name": "3 Chefs",
@@ -451,8 +451,8 @@
         "type_of_food": "American"
     },
     {
+        "id": 42,
         "URL": "http://www.just-eat.co.uk/restaurants-3in1dunoon-pa23/menu",
-        "_id": 42,
         "address": "45 Argyll Street DUNOON",
         "address_line_2": "Argyll",
         "name": "3 In 1 Dunoon",
@@ -462,8 +462,8 @@
         "type_of_food": "Curry"
     },
     {
+        "id": 43,
         "URL": "http://www.just-eat.co.uk/restaurants-3in1-indian-cuisine-g78/menu",
-        "_id": 43,
         "address": "58 Aurs Drive",
         "address_line_2": "Barrhead",
         "name": "3 in 1 Indian Chipshop Barrhead",
@@ -473,8 +473,8 @@
         "type_of_food": "English"
     },
     {
+        "id": 44,
         "URL": "http://www.just-eat.co.uk/restaurants-3in1xtra/menu",
-        "_id": 44,
         "address": "67-69 Elmbank Street",
         "address_line_2": "Glasgow",
         "name": "3 In 1 Xtra",
@@ -484,8 +484,8 @@
         "type_of_food": "Curry"
     },
     {
+        "id": 45,
         "URL": "http://www.just-eat.co.uk/restaurants-3in1xtra/menu",
-        "_id": 45,
         "address": "67-69 Elmbank Street",
         "address_line_2": "Glasgow",
         "name": "3 In 1 Xtra",
@@ -495,8 +495,8 @@
         "type_of_food": "Curry"
     },
     {
+        "id": 46,
         "URL": "http://www.just-eat.co.uk/restaurants-3in1xtra/menu",
-        "_id": 46,
         "address": "67-69 Elmbank Street",
         "address_line_2": "Glasgow",
         "name": "3 In 1 Xtra",
@@ -506,8 +506,8 @@
         "type_of_food": "Curry"
     },
     {
+        "id": 47,
         "URL": "http://www.just-eat.co.uk/restaurants-321/menu",
-        "_id": 47,
         "address": "148 St.Georges Road",
         "address_line_2": "Cheltenham",
         "name": "321 Pizzas, Kebabs Burgers",
@@ -517,8 +517,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 48,
         "URL": "http://www.just-eat.co.uk/restaurants-328chineseonline-cf81/menu",
-        "_id": 48,
         "address": "2-4 Commercial Street",
         "address_line_2": "Aberbargoed",
         "name": "328 Chinese Online",
@@ -528,8 +528,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 49,
         "URL": "http://www.just-eat.co.uk/restaurants-333-Chinese-FY4/menu",
-        "_id": 49,
         "address": "276 Waterloo Road",
         "address_line_2": "Blackpool",
         "name": "333 Chinese Takeaway",
@@ -539,8 +539,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 50,
         "URL": "http://www.just-eat.co.uk/restaurants-333Chinese-G13/menu",
-        "_id": 50,
         "address": "1550 Great Western Road",
         "address_line_2": "Glasgow",
         "name": "333 Chinese Takeaway",
@@ -550,8 +550,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 51,
         "URL": "http://www.just-eat.co.uk/restaurants-333Chinese-M11/menu",
-        "_id": 51,
         "address": "1276 Ashton Old Road",
         "address_line_2": "Manchester",
         "name": "333 Chinese Takeaway1",
@@ -561,8 +561,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 52,
         "URL": "http://www.just-eat.co.uk/restaurants-350wok-ws10/menu",
-        "_id": 52,
         "address": "136A Crankhall Lane",
         "address_line_2": "Wednesbury",
         "name": "350 Wok",
@@ -572,8 +572,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 53,
         "URL": "http://www.just-eat.co.uk/restaurants-350wok-ws10/menu",
-        "_id": 53,
         "address": "136A Crankhall Lane",
         "address_line_2": "Wednesbury",
         "name": "350 Wok",
@@ -583,8 +583,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 54,
         "URL": "http://www.just-eat.co.uk/restaurants-350wok-ws10/menu",
-        "_id": 54,
         "address": "136A Crankhall Lane",
         "address_line_2": "Wednesbury",
         "name": "350 Wok",
@@ -594,8 +594,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 55,
         "URL": "http://www.just-eat.co.uk/restaurants-4in1-Express-CH41/menu",
-        "_id": 55,
         "address": "122 Duke Street",
         "address_line_2": "Birkenhead",
         "name": "4 in 1 Express",
@@ -605,8 +605,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 56,
         "URL": "http://www.just-eat.co.uk/restaurants-4inlove-pe30/menu",
-        "_id": 56,
         "address": "10-12 Railway Road",
         "address_line_2": "Norfolk",
         "name": "4 in Love",
@@ -616,8 +616,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 57,
         "URL": "http://www.just-eat.co.uk/restaurants-4500-miles-from-delhi-bristol/menu",
-        "_id": 57,
         "address": "8 Colston Avenue",
         "address_line_2": "Bristol",
         "name": "4500 Miles From Delhi",
@@ -627,8 +627,8 @@
         "type_of_food": "Curry"
     },
     {
+        "id": 58,
         "URL": "http://www.just-eat.co.uk/restaurants-4seasonspizzaandgrill-dy3/menu",
-        "_id": 58,
         "address": "12-14 High Street",
         "address_line_2": "Dudley",
         "name": "4 Seasons Pizza Grill",
@@ -638,8 +638,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 59,
         "URL": "http://www.just-eat.co.uk/restaurants-4550milesfromdelhi-ng1/menu",
-        "_id": 59,
         "address": "41 Mount Street",
         "address_line_2": "Nottinghamshire",
         "name": "4550 Miles From Delhi - Collection Only",
@@ -649,8 +649,8 @@
         "type_of_food": "Curry"
     },
     {
+        "id": 60,
         "URL": "http://www.just-eat.co.uk/restaurants-5in1-pr3/menu",
-        "_id": 60,
         "address": "23 Berry Lane",
         "address_line_2": "Longridge",
         "name": "5 In 1 Takeaway",
@@ -660,8 +660,8 @@
         "type_of_food": "Curry"
     },
     {
+        "id": 61,
         "URL": "http://www.just-eat.co.uk/restaurants-5n1-dd8/menu",
-        "_id": 61,
         "address": "126 Castle Street",
         "address_line_2": "Forfar",
         "name": "5 'N' 1",
@@ -671,8 +671,8 @@
         "type_of_food": "Curry"
     },
     {
+        "id": 62,
         "URL": "http://www.just-eat.co.uk/restaurants-5-star-chinese-archway/menu",
-        "_id": 62,
         "address": "362 Hornsey Road",
         "address_line_2": "London",
         "name": "5 Star Chinese",
@@ -682,8 +682,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 63,
         "URL": "http://www.just-eat.co.uk/restaurants-5-star-chinese-archway/menu",
-        "_id": 63,
         "address": "362 Hornsey Road",
         "address_line_2": "London",
         "name": "5 Star Chinese",
@@ -693,8 +693,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 64,
         "URL": "http://www.just-eat.co.uk/restaurants-5-star-falafel--gh-butchers-kingsbury/menu",
-        "_id": 64,
         "address": "423 Kingsbury Road",
         "address_line_2": "London",
         "name": "5 Star Falafel @ GH Butchers",
@@ -704,8 +704,8 @@
         "type_of_food": "Lebanese"
     },
     {
+        "id": 65,
         "URL": "http://www.just-eat.co.uk/restaurants-5-star-falafel--gh-butchers-kingsbury/menu",
-        "_id": 65,
         "address": "423 Kingsbury Road",
         "address_line_2": "London",
         "name": "5 Star Falafel @ GH Butchers",
@@ -715,8 +715,8 @@
         "type_of_food": "Lebanese"
     },
     {
+        "id": 66,
         "URL": "http://www.just-eat.co.uk/restaurants-5-star-fish-bar/menu",
-        "_id": 66,
         "address": "103 Stafford Street",
         "address_line_2": "Walsall",
         "name": "5 Star Fish Bar",
@@ -726,8 +726,8 @@
         "type_of_food": "American"
     },
     {
+        "id": 67,
         "URL": "http://www.just-eat.co.uk/restaurants-5starpizza-ha9/menu",
-        "_id": 67,
         "address": "379 High Road",
         "address_line_2": "Wembley",
         "name": "5 Star Pizza",
@@ -737,8 +737,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 68,
         "URL": "http://www.just-eat.co.uk/restaurants-5starpizza-ha9/menu",
-        "_id": 68,
         "address": "379 High Road",
         "address_line_2": "Wembley",
         "name": "5 Star Pizza",
@@ -748,8 +748,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 69,
         "URL": "http://www.just-eat.co.uk/restaurants-5starpizza-ha9/menu",
-        "_id": 69,
         "address": "379 High Road",
         "address_line_2": "Wembley",
         "name": "5 Star Pizza",
@@ -759,8 +759,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 70,
         "URL": "http://www.just-eat.co.uk/restaurants-5starpizza-ha9/menu",
-        "_id": 70,
         "address": "379 High Road",
         "address_line_2": "Wembley",
         "name": "5 Star Pizza",
@@ -770,8 +770,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 71,
         "URL": "http://www.just-eat.co.uk/restaurants-5starpizza-b70/menu",
-        "_id": 71,
         "address": "104 Hiltop Road",
         "address_line_2": "West Bromich",
         "name": "5 Star Pizza",
@@ -781,8 +781,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 72,
         "URL": "http://www.just-eat.co.uk/restaurants-5starpizza-b70/menu",
-        "_id": 72,
         "address": "104 Hiltop Road",
         "address_line_2": "West Bromich",
         "name": "5 Star Pizza",
@@ -792,8 +792,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 73,
         "URL": "http://www.just-eat.co.uk/restaurants-5starpizza-b70/menu",
-        "_id": 73,
         "address": "104 Hiltop Road",
         "address_line_2": "West Bromich",
         "name": "5 Star Pizza",
@@ -803,8 +803,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 74,
         "URL": "http://www.just-eat.co.uk/restaurants-555hotcurry-ct12/menu",
-        "_id": 74,
         "address": "17-19 Northwood Road",
         "address_line_2": "Kent",
         "name": "555 Hot Curry",
@@ -814,8 +814,8 @@
         "type_of_food": "Curry"
     },
     {
+        "id": 75,
         "URL": "http://www.just-eat.co.uk/restaurants-555pizza-ct1/menu",
-        "_id": 75,
         "address": "72 Castle Street",
         "address_line_2": "Canterbury",
         "name": "555 Pizza",
@@ -825,8 +825,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 76,
         "URL": "http://www.just-eat.co.uk/restaurants-555pizzaandkebab-ct12/menu",
-        "_id": 76,
         "address": "15 Northwood Road",
         "address_line_2": "Kent",
         "name": "555 Pizza Kebab",
@@ -836,8 +836,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 77,
         "URL": "http://www.just-eat.co.uk/restaurants-57-orient-takeawayPR8/menu",
-        "_id": 77,
         "address": "81 Upper Aughton Road",
         "address_line_2": "Southport",
         "name": "57 Orient Takeaway",
@@ -847,8 +847,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 78,
         "URL": "http://www.just-eat.co.uk/restaurants-62worksop-s80/menu",
-        "_id": 78,
         "address": "62 Newcastle Avenue",
         "address_line_2": "Worksop",
         "name": "62 Worksop Fish Bar",
@@ -858,8 +858,8 @@
         "type_of_food": "Fish Chips"
     },
     {
+        "id": 79,
         "URL": "http://www.just-eat.co.uk/restaurants-64pizzeria-ls4/menu",
-        "_id": 79,
         "address": "64 Burley Road",
         "address_line_2": "Leeds",
         "name": "64 Pizzeria",
@@ -869,8 +869,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 80,
         "URL": "http://www.just-eat.co.uk/restaurants-7andone-bt53/menu",
-        "_id": 80,
         "address": "3 Charles Street",
         "address_line_2": "County Antrim",
         "name": "7 One",
@@ -880,8 +880,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 81,
         "URL": "http://www.just-eat.co.uk/restaurants-7oaksgrilltn13/menu",
-        "_id": 81,
         "address": "127 St Johns Hill",
         "address_line_2": "Sevenoaks",
         "name": "7 Oaks Grill",
@@ -891,8 +891,8 @@
         "type_of_food": "English"
     },
     {
+        "id": 82,
         "URL": "http://www.just-eat.co.uk/restaurants-7spices-s3/menu",
-        "_id": 82,
         "address": "Mayfair Court",
         "address_line_2": "Sheffield",
         "name": "7 Spices",
@@ -902,8 +902,8 @@
         "type_of_food": "Curry"
     },
     {
+        "id": 83,
         "URL": "http://www.just-eat.co.uk/restaurants-7Spices-LS6/menu",
-        "_id": 83,
         "address": "203-205 Woodhouse Street",
         "address_line_2": "Leeds",
         "name": "7 Spices",
@@ -913,8 +913,8 @@
         "type_of_food": "Curry"
     },
     {
+        "id": 84,
         "URL": "http://www.just-eat.co.uk/restaurants-7spices-g32/menu",
-        "_id":84,
         "address": "975 Carntyne Road",
         "address_line_2": "Glasgow",
         "name": "7 Spices Takeaway",
@@ -924,8 +924,8 @@
         "type_of_food": "Curry"
     },
     {
+        "id": 85,
         "URL": "http://www.just-eat.co.uk/restaurants-7star-ne6/menu",
-        "_id": 85,
         "address": "824 Shields Road",
         "address_line_2": "Newcastle",
         "name": "7 STAR Pizza",
@@ -935,8 +935,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 86,
         "URL": "http://www.just-eat.co.uk/restaurants-7star-ne6/menu",
-        "_id": 86,
         "address": "824 Shields Road",
         "address_line_2": "Newcastle",
         "name": "7 STAR Pizza",
@@ -946,8 +946,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 87,
         "URL": "http://www.just-eat.co.uk/restaurants-7star-ne6/menu",
-        "_id": 87,
         "address": "824 Shields Road",
         "address_line_2": "Newcastle",
         "name": "7 STAR Pizza",
@@ -957,8 +957,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 88,
         "URL": "http://www.just-eat.co.uk/restaurants-7starspices-g52/menu",
-        "_id": 88,
         "address": "828 Mosspark Drive",
         "address_line_2": "Lanarkshire",
         "name": "7 Star Spices",
@@ -968,8 +968,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 89,
         "URL": "http://www.just-eat.co.uk/restaurants-700degrees-gu51/menu",
-        "_id": 89,
         "address": "192-196 Fleet Road",
         "address_line_2": "Hampshire",
         "name": "700 Degrees",
@@ -979,8 +979,8 @@
         "type_of_food": "Chicken"
     },
     {
+        "id": 90,
         "URL": "http://www.just-eat.co.uk/restaurants-88-chinese-millbrook/menu",
-        "_id": 90,
         "address": "44 London Road",
         "address_line_2": "Southampton",
         "name": "88 Chinese",
@@ -990,8 +990,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 91,
         "URL": "http://www.just-eat.co.uk/restaurants-88noodlebar-hd1/menu",
-        "_id": 91,
         "address": "15 Cross Church Street",
         "address_line_2": "Huddersfield",
         "name": "88 Noodle Bar",
@@ -1001,8 +1001,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 92,
         "URL": "http://www.just-eat.co.uk/restaurants-888chinese-so23/menu",
-        "_id": 92,
         "address": "77 North Walls",
         "address_line_2": "Winchester",
         "name": "888 Chinese Takeaway",
@@ -1012,8 +1012,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 93,
         "URL": "http://www.just-eat.co.uk/restaurants-888tripleeight-bh9/menu",
-        "_id": 93,
         "address": "888 Wimborne Road",
         "address_line_2": "Bournemouth",
         "name": "888 Triple Eight",
@@ -1023,8 +1023,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 94,
         "URL": "http://www.just-eat.co.uk/restaurants-9cfc/menu",
-        "_id": 94,
         "address": "7 Shopping Precinct",
         "address_line_2": "Featherstone",
         "name": "9 Inch CFC",
@@ -1034,8 +1034,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 95,
         "URL": "http://www.just-eat.co.uk/restaurants-9thavenuepizzeria-bt78/menu",
-        "_id": 95,
         "address": "9 Dromore Road",
         "address_line_2": "Omagh",
         "name": "9th Avenue Pizzeria",
@@ -1045,8 +1045,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 96,
         "URL": "http://www.just-eat.co.uk/restaurants-9thkitchen-b26/menu",
-        "_id": 96,
         "address": "397 Sheldon Heath Road",
         "address_line_2": "Sheldon",
         "name": "9th Kitchen",
@@ -1056,8 +1056,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 97,
         "URL": "http://www.just-eat.co.uk/restaurants-A-G-Kitchen-M40/menu",
-        "_id": 97,
         "address": "267 Nuthurst Road",
         "address_line_2": "Manchester",
         "name": "A G Kitchen",
@@ -1067,8 +1067,8 @@
         "type_of_food": "Chinese"
     },
     {
+        "id": 98,
         "URL": "http://www.just-eat.co.uk/restaurants-a-and-t-mundi-house-iffley/menu",
-        "_id": 98,
         "address": "64 Cowley Road",
         "address_line_2": "",
         "name": "A T Mundi House",
@@ -1078,8 +1078,8 @@
         "type_of_food": "Arabic"
     },
     {
+        "id": 99,
         "URL": "http://www.just-eat.co.uk/restaurants-a-cake-a-shake-stockport/menu",
-        "_id": 99,
         "address": "8B - 12B Houldsworth Street",
         "address_line_2": "Stockport",
         "name": "A Cake A Shake",
@@ -1089,8 +1089,8 @@
         "type_of_food": "Desserts"
     },
     {
+        "id": 100,
         "URL": "http://www.just-eat.co.uk/restaurants-a-cake-a-shake-stockport/menu",
-        "_id": 100,
         "address": "8B - 12B Houldsworth Street",
         "address_line_2": "Stockport",
         "name": "A Cake A Shake",
@@ -1100,8 +1100,8 @@
         "type_of_food": "Desserts"
     },
     {
+        "id": 101,
         "URL": "http://www.just-eat.co.uk/restaurants-afishcalledrhondda-cf42/menu",
-        "_id": 101,
         "address": "19 - 20 Church Road",
         "address_line_2": "Mid Glamorgan",
         "name": "A Fish Called Rhondda",
@@ -1111,8 +1111,8 @@
         "type_of_food": "English"
     },
     {
+        "id": 102,
         "URL": "http://www.just-eat.co.uk/restaurants-alapizza/menu",
-        "_id": 102,
         "address": "28 Upton Lane",
         "address_line_2": "London",
         "name": "A La Pizza",
@@ -1122,8 +1122,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 103,
         "URL": "http://www.just-eat.co.uk/restaurants-alapizza/menu",
-        "_id": 103,
         "address": "28 Upton Lane",
         "address_line_2": "London",
         "name": "A La Pizza",
@@ -1133,8 +1133,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 104,
         "URL": "http://www.just-eat.co.uk/restaurants-alaturka-pr7/menu",
-        "_id": 104,
         "address": "99 Market Street",
         "address_line_2": "Chorley",
         "name": "A La Turka",
@@ -1144,8 +1144,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 105,
         "URL": "http://www.just-eat.co.uk/restaurants-ammians-bl1/menu",
-        "_id": 105,
         "address": "60 Great Moor Street",
         "address_line_2": "Bolton",
         "name": "A M Mians",
@@ -1155,8 +1155,8 @@
         "type_of_food": "Kebab"
     },
     {
+        "id": 106,
         "URL": "http://www.just-eat.co.uk/restaurants-ammians-bl1/menu",
-        "_id": 106,
         "address": "60 Great Moor Street",
         "address_line_2": "Bolton",
         "name": "A M Mians",
@@ -1166,8 +1166,8 @@
         "type_of_food": "Kebab"
     },
     {
+        "id": 107,
         "URL": "http://www.just-eat.co.uk/restaurants-amatteroftaste-po6/menu",
-        "_id": 107,
         "address": "7 Spur Road",
         "address_line_2": "Cosham",
         "name": "A Matter Of Taste",
@@ -1177,8 +1177,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 108,
         "URL": "http://www.just-eat.co.uk/restaurants-aonetandoori-ka21/menu",
-        "_id": 108,
         "address": "43 Hamilton Street",
         "address_line_2": "Ayrshire",
         "name": "A One Tandoori",
@@ -1188,8 +1188,8 @@
         "type_of_food": "Curry"
     },
     {
+        "id": 109,
         "URL": "http://www.just-eat.co.uk/restaurants-a-passage-to-india/menu",
-        "_id": 109,
         "address": "76 Bold Street",
         "address_line_2": "Liverpool",
         "name": "A Passage To India",
@@ -1199,8 +1199,8 @@
         "type_of_food": "Curry"
     },
     {
+        "id": 110,
         "URL": "http://www.just-eat.co.uk/restaurants-apassagetoindia-sk22/menu",
-        "_id": 110,
         "address": "29 Union Road",
         "address_line_2": "Derbyshire",
         "name": "A Passage To India",
@@ -1210,8 +1210,8 @@
         "type_of_food": "Curry"
     },
     {
+        "id": 111,
         "URL": "http://www.just-eat.co.uk/restaurants-sealandfishbar-ct1/menu",
-        "_id": 111,
         "address": "71 Sturry Road",
         "address_line_2": "Canterbury",
         "name": "A Sealand Fish Bar - Collection Only",
@@ -1221,8 +1221,8 @@
         "type_of_food": "Fish Chips"
     },
     {
+        "id": 112,
         "URL": "http://www.just-eat.co.uk/restaurants-astarpizza-bl3/menu",
-        "_id": 112,
         "address": "289 Lever Street",
         "address_line_2": "Bolton",
         "name": "A Star Chippy",
@@ -1231,10 +1231,9 @@
         "rating": 5,
         "type_of_food": "Fish Chips"
     },
-    
     {
+        "id": 113,
         "URL": "http://www.just-eat.co.uk/restaurants-alibabas-wf13/menu",
-        "_id": 113,
         "address": "35 Wellington Road",
         "address_line_2": "Dewsbury",
         "name": "Ali Baba's",
@@ -1244,8 +1243,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 114,
         "URL": "http://www.just-eat.co.uk/restaurants-alibabaswn7/menu",
-        "_id": 114,
         "address": "7 Railways Road",
         "address_line_2": "Leigh",
         "name": "Ali Baba's",
@@ -1255,8 +1254,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 115,
         "URL": "http://www.just-eat.co.uk/restaurants-alibabasbalti-de14/menu",
-        "_id": 115,
         "address": "45 Branston Road",
         "address_line_2": "Staffordshire",
         "name": "Ali Babas Balti",
@@ -1266,8 +1265,8 @@
         "type_of_food": "Curry"
     },
     {
+        "id": 116,
         "URL": "http://www.just-eat.co.uk/restaurants-alibabas-ss6/menu",
-        "_id": 116,
         "address": "45 Eastwood Road",
         "address_line_2": "Rayleigh",
         "name": "Ali Baba's Kebab Pizza",
@@ -1277,8 +1276,8 @@
         "type_of_food": "Kebab"
     },
     {
+        "id": 117,
         "URL": "http://www.just-eat.co.uk/restaurants-alibabas-de14/menu",
-        "_id": 117,
         "address": "45 Branston Road",
         "address_line_2": "Burton-on-Trent",
         "name": "Ali Babas Pizza, Kebab Curries",
@@ -1288,8 +1287,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 118,
         "URL": "http://www.just-eat.co.uk/restaurants-alig/menu",
-        "_id": 118,
         "address": "11a Tower Street",
         "address_line_2": "York",
         "name": "Ali G´s",
@@ -1299,8 +1298,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 119,
         "URL": "http://www.just-eat.co.uk/restaurants-aligeez-ne3/menu",
-        "_id": 119,
         "address": "13 Mallowburn Cresent",
         "address_line_2": "Kenton",
         "name": "Ali Geez",
@@ -1310,8 +1309,8 @@
         "type_of_food": "Pizza"
     },
     {
+        "id": 120,
         "URL": "http://www.just-eat.co.uk/restaurants-ali-geez/menu",
-        "_id": 120,
         "address": "6 Wellington Street",
         "address_line_2": "Gateshead",
         "name": "Ali Geez Pizza Kebab",

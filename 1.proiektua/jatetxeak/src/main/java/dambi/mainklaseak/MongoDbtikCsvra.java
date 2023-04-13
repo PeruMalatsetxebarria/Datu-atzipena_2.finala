@@ -35,15 +35,22 @@ public class MongoDbtikCsvra {
         mongoClient.close();*/
 
         MongoClient mongoClient = new MongoClient("localhost", 27017); //MongoClients.create("mongodb://localhost:27017");
-        MongoDatabase database = mongoClient.getDatabase("mugikorrak");
-        MongoCollection<Document> collection = database.getCollection("mugikorrak");
+        MongoDatabase database = mongoClient.getDatabase("jatetxeak");
+        MongoCollection<Document> collection = database.getCollection("jatetxeak");
 
-        FileWriter csvWriter = new FileWriter("data/data.csv");
+        FileWriter csvWriter = new FileWriter("data/JatetxeakMongotik.csv");
 
         for (Document doc : collection.find()) {
-            String name = doc.getString("marka");
-            int age = doc.getInteger("ram");
-            csvWriter.append(name + "," + age + "\n");
+            String id = doc.getString("_id"); //int id = doc.getInteger("_id");
+            String URL = doc.getString("URL");
+            String address = doc.getString("address");
+            String address_line_2 = doc.getString("address line 2");
+            String name = doc.getString("name");
+            String outcode = doc.getString("outcode");
+            String postcode = doc.getString("postcode");
+            int rating = doc.getInteger("rating");
+            String type_of_food = doc.getString("type of food");
+            csvWriter.append(id + "," + URL + "," + address + "," + address_line_2 + "," + name + "," + outcode + "," + postcode + "," + rating + "," + type_of_food + "\n");
         }
 
         csvWriter.flush();

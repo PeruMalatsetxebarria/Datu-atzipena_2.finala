@@ -59,7 +59,7 @@ public class Jsona {
                 Jatetxea jatetxea = new Jatetxea();
 
 
-                //jatetxea.setId(jsonobj.getString("id"));
+                jatetxea.setId(jsonobj.getInt("id"));
 
                 jatetxea.setURL(jsonobj.getString("URL"));
                 jatetxea.setAddress(jsonobj.getString("address"));
@@ -85,13 +85,14 @@ public class Jsona {
         for (Jatetxea m : jatetxeak.getJatetxeak()) {
             jab.add(Json.createObjectBuilder()
                     .add("id", m.getId())
+                    .add("URL", m.getURL())
                     .add("address", m.getAddress())
                     .add("address_line_2", m.getAddress_line_2())
                     .add("name", m.getName())
                     .add("outcode", m.getOutcode())
                     .add("postcode", m.getPostcode())
                     .add("rating", m.getRating())
-                    .add("Type_of_food", m.getType_of_food())
+                    .add("type_of_food", m.getType_of_food())
                     .build());
             mendiKopurua++;
         }
@@ -112,13 +113,14 @@ public class Jsona {
         for (Jatetxea m : jatetxeak.getJatetxeak()) {
             jab.add(Json.createObjectBuilder()
                     .add("id", m.getId())
+                    .add("URL", m.getURL())
                     .add("address", m.getAddress())
                     .add("address_line_2", m.getAddress_line_2())
                     .add("name", m.getName())
                     .add("outcode", m.getOutcode())
                     .add("postcode", m.getPostcode())
                     .add("rating", m.getRating())
-                    .add("Type_of_food", m.getType_of_food())
+                    .add("type_of_food", m.getType_of_food())
                     .build());
             mendiKopurua++;
         }

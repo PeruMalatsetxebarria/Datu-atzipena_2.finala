@@ -5,14 +5,14 @@ import jakarta.xml.bind.annotation.XmlElement;
 import jakarta.xml.bind.annotation.XmlRootElement;
 import jakarta.xml.bind.annotation.XmlType;
 
-@XmlType(propOrder = { "URL", "id", "address", "address_line_2", "name", "outcode", "postcode", "rating", "type_of_food" })
+@XmlType(propOrder = { "id", "URL", "address", "address_line_2", "name", "outcode", "postcode", "rating", "type_of_food" })
 @XmlRootElement(name = "Jatetxea")
 
 public class Jatetxea {
 
     String URL;
     //int id = 0;
-    String id;
+    int id;
     String address;
     String address_line_2;
     String name;
@@ -30,12 +30,12 @@ public class Jatetxea {
         this.URL = URL;
     }
 
-    public String getId(){
+    public int getId(){
        return id;
     }
 
     @XmlAttribute(name = "id")
-    public void setId(String id) {
+    public void setId(int id) {
         this.id = id;
     }
 

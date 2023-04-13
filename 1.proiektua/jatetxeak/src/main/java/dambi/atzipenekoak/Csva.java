@@ -43,16 +43,17 @@ public class Csva {
         Jatetxeak jatetxeak = null;
 
         try (BufferedReader inputStream = new BufferedReader(new FileReader(strFileIn))) {
-            String banatzailea = ";";
+            String banatzailea = "; ";
             String l;
             jatetxeak = new Jatetxeak();
             while ((l = inputStream.readLine()) != null) {
                 String[] eremuak = l.split(banatzailea);
-                if (!eremuak[0].equals("JATETXEA")) {
+                if (!eremuak[0].equals("id")) {
                     Jatetxea jatetxea = new Jatetxea();
                     //jatetxea.setId(jatetxeak.getJatetxeak() == null ? 0 : jatetxeak.getJatetxeak().size());
-                    jatetxea.setURL(eremuak[0]);
-                    jatetxea.setId(eremuak[1]);
+                    
+                    jatetxea.setId(Integer.parseInt(eremuak[0]));
+                    jatetxea.setURL(eremuak[1]);
                     jatetxea.setAddress(eremuak[2]);
                     jatetxea.setAddress_line_2(eremuak[3]);
                     jatetxea.setName(eremuak[4]);
@@ -89,7 +90,7 @@ public class Csva {
                 }
                 mendiKopurua++;
                 
-                outputStream.println(m.getId()+";"+m.getURL()+";"+m.getAddress()+";"+m.getAddress_line_2()+";"+m.getName()+";"+m.getOutcode()+";"+m.getPostcode()+";"+m.getRating()+";"+m.getType_of_food());
+                outputStream.println(m.getId()+"; "+m.getURL()+"; "+m.getAddress()+"; "+m.getAddress_line_2()+"; "+m.getName()+"; "+m.getOutcode()+"; "+m.getPostcode()+"; "+m.getRating()+"; "+m.getType_of_food());
             }
         } catch (IOException e) {
             System.out.println(strFileOut + " fitxategiarekin arazoren bat egon da.");
