@@ -47,7 +47,7 @@ public class Xmla {
     }
 
     public int idatzi(Jatetxeak jatetxeak) {
-        int mendiKopurua = 0;
+        int jatetxeKopurua = 0;
         try {
 
             /* init jaxb marshaler */
@@ -60,10 +60,10 @@ public class Xmla {
             /* marshaling of java objects in xml (output to file and standard output) */
             jaxbMarshaller.marshal(jatetxeak, new File(strFileOut));
             // jaxbMarshaller.marshal(jatetxeak, System.out);
-            //mendiKopurua = jatetxeak.getJatetxeak().size();
+            //jatetxeKopurua = jatetxeak.getJatetxeak().size();
         } catch (JAXBException e) {
             e.printStackTrace();
         }
-        return mendiKopurua;
+        return jatetxeKopurua;
     }
 }

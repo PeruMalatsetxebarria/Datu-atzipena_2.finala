@@ -15,7 +15,7 @@ public class CsvtikMongoDBra {
         MongoDatabase database = mongoClient.getDatabase("jatetxeak");
         MongoCollection<Document> collection = database.getCollection("jatetxeak");
 
-        String csvFile = "data/JatetxeakMongora.csv";//"/path/to/csv/file.csv";
+        String csvFile = "data/Jatetxeak.csv";
         String line;
         String[] fields;
 

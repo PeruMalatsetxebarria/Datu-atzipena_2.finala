@@ -79,7 +79,7 @@ public class Jsona {
     }
 
     public int idatzi(Jatetxeak jatetxeak) {
-        int mendiKopurua = 0;
+        int jatetxeKopurua = 0;
         JsonArray model = null;
         JsonArrayBuilder jab = Json.createArrayBuilder();
         for (Jatetxea m : jatetxeak.getJatetxeak()) {
@@ -94,7 +94,7 @@ public class Jsona {
                     .add("rating", m.getRating())
                     .add("type_of_food", m.getType_of_food())
                     .build());
-            mendiKopurua++;
+            jatetxeKopurua++;
         }
         model=jab.build();
 
@@ -103,11 +103,11 @@ public class Jsona {
         } catch (FileNotFoundException fnfe) {
             System.out.println("Fitxategia sortzerakoan arazoak.");
         }
-        return mendiKopurua;
+        return jatetxeKopurua;
 
     }
     public int idatzi_Formatua(Jatetxeak jatetxeak) {
-        int mendiKopurua = 0;
+        int jatetxeKopurua = 0;
         JsonArray model = null;
         JsonArrayBuilder jab = Json.createArrayBuilder();
         for (Jatetxea m : jatetxeak.getJatetxeak()) {
@@ -122,7 +122,7 @@ public class Jsona {
                     .add("rating", m.getRating())
                     .add("type_of_food", m.getType_of_food())
                     .build());
-            mendiKopurua++;
+            jatetxeKopurua++;
         }
         model=jab.build();
         String modelString = "{jatetxeak: " + model.toString() + "}";
@@ -139,7 +139,7 @@ public class Jsona {
         catch(Exception e) {
            e.printStackTrace();
         }
-        return mendiKopurua;
+        return jatetxeKopurua;
 
     }
 }

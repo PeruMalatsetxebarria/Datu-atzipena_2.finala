@@ -81,20 +81,20 @@ public class Csva {
      * @return Fitxategian idatzitako mendi kopurua 
      */
     public int idatzi(Jatetxeak jatetxeak) {
-        int mendiKopurua=0;        
+        int jatetxeKopurua=0;        
 
         try (PrintWriter outputStream = new PrintWriter(new FileWriter(strFileOut))) {
             for (Jatetxea m : jatetxeak.getJatetxeak()) {
-                if (mendiKopurua==0){
+                /*if (jatetxeKopurua==0){
                     outputStream.println("id; URL; address; address line 2; name; outcode; postcode; rating; type of food");
                 }
-                mendiKopurua++;
+                jatetxeKopurua++;*/
                 
                 outputStream.println(m.getId()+"; "+m.getURL()+"; "+m.getAddress()+"; "+m.getAddress_line_2()+"; "+m.getName()+"; "+m.getOutcode()+"; "+m.getPostcode()+"; "+m.getRating()+"; "+m.getType_of_food());
             }
         } catch (IOException e) {
             System.out.println(strFileOut + " fitxategiarekin arazoren bat egon da.");
         }
-        return mendiKopurua;
+        return jatetxeKopurua;
     }
 }
