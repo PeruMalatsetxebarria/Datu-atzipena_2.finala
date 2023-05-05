@@ -26,7 +26,7 @@ public class MainController {
     @Autowired
     private JatetxeakRepository jatetxeakRepository;
 
-
+	//APLIKAZIÑORA SARTZEKO NABEGADORIN HAU IPINI: http://localhost:8080/swagger-ui/index.html#
 
 
     @GetMapping(path = "/jatetxeguztiak")

@@ -29,12 +29,12 @@ public class CsvtikMongoDBra {
                 Document doc = new Document("_id", fields[0])
                         .append("URL", fields[1])
                         .append("address", fields[2])
-                        .append("address line 2", fields[3])
+                        .append("address_line_2", fields[3])
                         .append("name", fields[4])
                         .append("outcode", fields[5])
                         .append("postcode", fields[6])
                         .append("rating", Integer.parseInt(fields[7]))
-                        .append("type of food", fields[8]);
+                        .append("type_of_food", fields[8]);
                 collection.insertOne(doc);
             }
         } catch (IOException e) {

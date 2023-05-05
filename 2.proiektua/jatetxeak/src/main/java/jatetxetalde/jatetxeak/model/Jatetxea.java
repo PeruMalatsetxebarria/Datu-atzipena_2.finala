@@ -5,8 +5,9 @@ import java.util.List;
 import org.bson.types.ObjectId;
 
 public class Jatetxea {
-    private int _id;
-	private String URL;
+	//private int _id;
+    private String _id;
+	private String url;
     private String address;
     private String address_line_2;
 	private String name;
@@ -16,20 +17,30 @@ public class Jatetxea {
 	private String type_of_food;
 
 
-    public int getId() {
+    /*public int getId() {
+		return _id;//return Integer.parseInt(_id);Integer.toString(_id)
+	}
+
+	public void setId(int _id) {
+		this._id = _id;
+	}*/
+	public String getId() {
 		return _id;
 	}
 
-	public void setId(int id) {
+	public void setId(String _id) {
 		this._id = _id;
 	}
 
+
+
+
 	public String getURL() {
-		return URL;
+		return url;
 	}
 
-	public void setURL(String URL) {
-		this.URL = URL;
+	public void setURL(String url) {
+		this.url = url;
 	}
 
     public String getAddress() {
@@ -94,6 +105,6 @@ public class Jatetxea {
 
 	@Override
 	public String toString() {
-        return "jatetxea [URL=" + URL + ", helbide=" + address + ", 2. helbidea=" + address_line_2 + ", izena=" + name + ", outcode=" + outcode + ", postcode=" + postcode + ", balorazioa=" + rating + ", type_of_food=" + type_of_food + "]";
+        return "jatetxea [id=" + _id + " + , URL=" + url + ", helbide=" + address + ", 2. helbidea=" + address_line_2 + ", izena=" + name + ", outcode=" + outcode + ", postcode=" + postcode + ", balorazioa=" + rating + ", type_of_food=" + type_of_food + "]";
 	}
 }
