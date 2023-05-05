@@ -45,4 +45,12 @@ public class MongoDBJatetxeakRepository implements JatetxeakRepository {
         return jatetxeaCollection.find(eq("name", name)).into(new ArrayList<>());
     }
 
+
+
+    @Override
+    public Jatetxea save(Jatetxea jatetxea) {
+        //jatetxea.setId(new ObjectId());
+        jatetxeaCollection.insertOne(jatetxea);
+        return jatetxea;
+    }
 }

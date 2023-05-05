@@ -8,4 +8,5 @@ import org.springframework.stereotype.Repository;
 public interface JatetxeakRepository {
     List<Jatetxea> findAll();
     List<Jatetxea> findName(String name);
+    Jatetxea save(Jatetxea jat);
 }

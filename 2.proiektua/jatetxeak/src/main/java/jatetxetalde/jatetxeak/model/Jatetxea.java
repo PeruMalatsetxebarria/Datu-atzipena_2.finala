@@ -105,6 +105,6 @@ public class Jatetxea {
 
 	@Override
 	public String toString() {
-        return "jatetxea [id=" + _id + " + , URL=" + url + ", helbide=" + address + ", 2. helbidea=" + address_line_2 + ", izena=" + name + ", outcode=" + outcode + ", postcode=" + postcode + ", balorazioa=" + rating + ", type_of_food=" + type_of_food + "]";
+        return "jatetxea [id=" + _id + " + , url=" + url + ", helbide=" + address + ", 2. helbidea=" + address_line_2 + ", izena=" + name + ", outcode=" + outcode + ", postcode=" + postcode + ", balorazioa=" + rating + ", type_of_food=" + type_of_food + "]";
 	}
 }

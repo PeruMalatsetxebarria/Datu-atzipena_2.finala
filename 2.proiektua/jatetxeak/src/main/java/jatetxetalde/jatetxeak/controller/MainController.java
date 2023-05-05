@@ -39,4 +39,29 @@ public class MainController {
 		return jatetxeakRepository.findName(name);
 	}
 
+
+
+
+
+
+	@PostMapping(path = "/jatetxeberria")
+	public @ResponseBody String addNewUser(@RequestParam String _id, @RequestParam String url, @RequestParam String address, @RequestParam String address_line_2, @RequestParam String name, @RequestParam String outcode, @RequestParam String postcode, @RequestParam int rating, @RequestParam String type_of_food) {
+
+		Jatetxea jatetxea = new Jatetxea();
+		jatetxea.setId(_id);
+        jatetxea.setURL(url);
+        jatetxea.setAddress(address);
+        jatetxea.setAddress_line_2(address_line_2);
+        jatetxea.setName(name);
+        jatetxea.setOutcode(outcode);
+		jatetxea.setPostcode(postcode);
+        jatetxea.setRating(rating);
+        jatetxea.setType_of_food(type_of_food);
+		jatetxeakRepository.save(jatetxea);
+		return "Saved";
+	}
+
+
+
+
 }

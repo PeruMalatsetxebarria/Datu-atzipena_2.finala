@@ -20,14 +20,14 @@ public class MongoDbtikCsvra {
 
         for (Document doc : collection.find()) {
             String id = doc.getString("_id");
-            String URL = doc.getString("URL");
+            String URL = doc.getString("url");
             String address = doc.getString("address");
-            String address_line_2 = doc.getString("address line 2");
+            String address_line_2 = doc.getString("address_line_2");
             String name = doc.getString("name");
             String outcode = doc.getString("outcode");
             String postcode = doc.getString("postcode");
             int rating = doc.getInteger("rating");
-            String type_of_food = doc.getString("type of food");
+            String type_of_food = doc.getString("type_of_food");
             csvWriter.append(id + "; " + URL + "; " + address + "; " + address_line_2 + "; " + name + "; " + outcode + "; " + postcode + "; " + rating + "; " + type_of_food + "\n");
         }
 
