@@ -45,6 +45,11 @@ public class MongoDBJatetxeakRepository implements JatetxeakRepository {
         return jatetxeaCollection.find(eq("name", name)).into(new ArrayList<>());
     }
 
+    @Override
+    public List<Jatetxea> findId(String _id) {
+        return jatetxeaCollection.find(eq("_id", _id)).into(new ArrayList<>());
+    }
+
 
 
     @Override
@@ -53,4 +58,15 @@ public class MongoDBJatetxeakRepository implements JatetxeakRepository {
         jatetxeaCollection.insertOne(jatetxea);
         return jatetxea;
     }
+
+
+
+
+
+
+
+    @Override
+    public long delete(String name) {
+        return jatetxeaCollection.deleteMany(eq("name", name)).getDeletedCount();
+    } 
 }

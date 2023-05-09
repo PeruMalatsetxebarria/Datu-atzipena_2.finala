@@ -34,9 +34,14 @@ public class MainController {
 		return jatetxeakRepository.findAll();
 	}
 
-    @GetMapping(path = "/jatetxebat/{name}")
+    @GetMapping(path = "/jatetxebatizena/{name}")
 	public @ResponseBody Iterable<Jatetxea> getJatetxeBat(@RequestParam String name) {
 		return jatetxeakRepository.findName(name);
+	}
+
+	@GetMapping(path = "/jatetxebatid/{id}")
+	public @ResponseBody Iterable<Jatetxea> getJatetxeBatId(@RequestParam String _id) {
+		return jatetxeakRepository.findId(_id);
 	}
 
 
@@ -64,4 +69,20 @@ public class MainController {
 
 
 
+
+
+
+
+	@DeleteMapping(path = "/ezabatu/{name}")
+	public ResponseEntity<Void> deleteJatetxea(@PathVariable String name) {
+		try {
+			long zenbat = jatetxeakRepository.delete(name);
+			System.out.println("Ezabatutako jatetxe kopurua🔆: "+zenbat);
+			return ResponseEntity.ok().build();
+
+		} catch (Exception ex) {
+			System.out.println("Errorea " + name + " jatetxea ezabatzerakoan. ");
+			return ResponseEntity.notFound().build();
+		}
+	}
 }
