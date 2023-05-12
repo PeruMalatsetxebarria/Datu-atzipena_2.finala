@@ -3,7 +3,9 @@ package jatetxetalde.jatetxeak.model;
 import java.util.ArrayList;
 import java.util.List;
 import javax.annotation.PostConstruct;
+import javax.management.Query;
 
+import org.bson.Document;
 import org.bson.types.ObjectId;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
@@ -14,9 +16,10 @@ import com.mongodb.TransactionOptions;
 import com.mongodb.WriteConcern;
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoCollection;
+import com.mongodb.client.model.Filters;//
 
 
-import static com.mongodb.client.model.Filters.eq;
+//import static com.mongodb.client.model.Filters.eq;
 
 @Repository
 public class MongoDBJatetxeakRepository implements JatetxeakRepository {
@@ -42,15 +45,13 @@ public class MongoDBJatetxeakRepository implements JatetxeakRepository {
 
     @Override
     public List<Jatetxea> findName(String name) {
-        return jatetxeaCollection.find(eq("name", name)).into(new ArrayList<>());
+        return jatetxeaCollection.find(Filters.eq("name", name)).into(new ArrayList<>());
     }
 
     @Override
     public List<Jatetxea> findId(String _id) {
-        return jatetxeaCollection.find(eq("_id", _id)).into(new ArrayList<>());
+        return jatetxeaCollection.find(Filters.eq("_id", _id)).into(new ArrayList<>());
     }
-
-
 
     @Override
     public Jatetxea save(Jatetxea jatetxea) {
@@ -59,14 +60,14 @@ public class MongoDBJatetxeakRepository implements JatetxeakRepository {
         return jatetxea;
     }
 
-
-
-
-
-
-
     @Override
     public long delete(String name) {
-        return jatetxeaCollection.deleteMany(eq("name", name)).getDeletedCount();
+        return jatetxeaCollection.deleteMany(Filters.eq("name", name)).getDeletedCount();
+    }
+
+    @Override
+    public Jatetxea updateJatetxea(Jatetxea jatetxea) {
+        jatetxeaCollection.updateOne(Filters.eq("_id", jatetxea.getId()), new Document("$set", new Document("address", jatetxea.getAddress())));
+        return jatetxea;
     } 
 }

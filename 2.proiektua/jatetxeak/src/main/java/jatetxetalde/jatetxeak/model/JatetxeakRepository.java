@@ -10,5 +10,6 @@ public interface JatetxeakRepository {
     List<Jatetxea> findName(String name);
     List<Jatetxea> findId(String _id);
     Jatetxea save(Jatetxea jat);
+    Jatetxea updateJatetxea(Jatetxea jatetxea);
     long delete(String name);
 }
