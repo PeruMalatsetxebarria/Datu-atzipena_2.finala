@@ -66,8 +66,23 @@ public class MongoDBJatetxeakRepository implements JatetxeakRepository {
     }
 
     @Override
-    public Jatetxea updateJatetxea(Jatetxea jatetxea) {
+    public Jatetxea updateHelbidea(Jatetxea jatetxea) {
         jatetxeaCollection.updateOne(Filters.eq("_id", jatetxea.getId()), new Document("$set", new Document("address", jatetxea.getAddress())));
         return jatetxea;
-    } 
+    }
+
+    @Override
+    public Jatetxea updateJatetxea(Jatetxea jatetxea) {
+        jatetxeaCollection.updateOne(Filters.eq("_id", jatetxea.getId()),
+                new Document("$set", new Document("url", jatetxea.getURL())
+                        .append("address", jatetxea.getAddress())
+                        .append("address_line_2", jatetxea.getAddress_line_2())
+                        .append("name", jatetxea.getName())
+                        .append("outcode", jatetxea.getOutcode())
+                        .append("postcode", jatetxea.getPostcode())
+                        .append("rating", jatetxea.getRating())
+                        .append("type_of_food", jatetxea.getType_of_food())));
+        return jatetxea;
+
+    }
 }

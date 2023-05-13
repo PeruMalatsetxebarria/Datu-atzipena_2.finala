@@ -46,26 +46,36 @@ public class MainController {
 	}
 
 
+	@PutMapping("/helbidealdatu/{id}")
+	public Jatetxea updateHelbidea(@RequestParam String _id,
+									@RequestParam String address) {
+										Jatetxea jatetxea = new Jatetxea();
+										jatetxea.setId(_id);
+										jatetxea.setAddress(address);
+										jatetxeakRepository.updateHelbidea(jatetxea);
+		return jatetxea;
+	}
+
 	@PutMapping("/jatetxealdatu/{id}")
-	public Jatetxea updateJatetxea(@RequestParam String _id,//@PathVariable String _id,
-									//@RequestParam String url,
-									@RequestParam String address/*,
+	public Jatetxea updateJatetxea(@RequestParam String _id,
+									@RequestParam String url,
+									@RequestParam String address,
 									@RequestParam String address_line_2,
 									@RequestParam String name,
 									@RequestParam String outcode,
 									@RequestParam String postcode,
 									@RequestParam int rating,
-									@RequestParam String type_of_food*/) {
+									@RequestParam String type_of_food) {
 										Jatetxea jatetxea = new Jatetxea();
 										jatetxea.setId(_id);
-										//jatetxea.setURL(url);
+										jatetxea.setURL(url);
 										jatetxea.setAddress(address);
-										/*jatetxea.setAddress_line_2(address_line_2);
+										jatetxea.setAddress_line_2(address_line_2);
 										jatetxea.setName(name);
 										jatetxea.setOutcode(outcode);
 										jatetxea.setPostcode(postcode);
 										jatetxea.setRating(rating);
-										jatetxea.setType_of_food(type_of_food);*/
+										jatetxea.setType_of_food(type_of_food);
 										jatetxeakRepository.updateJatetxea(jatetxea);
 		return jatetxea;
 	}
