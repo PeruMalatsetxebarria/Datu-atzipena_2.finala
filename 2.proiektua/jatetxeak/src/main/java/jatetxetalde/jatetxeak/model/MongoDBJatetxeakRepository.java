@@ -74,7 +74,7 @@ public class MongoDBJatetxeakRepository implements JatetxeakRepository {
     @Override
     public Jatetxea updateJatetxea(Jatetxea jatetxea) {
         jatetxeaCollection.updateOne(Filters.eq("_id", jatetxea.getId()),
-                new Document("$set", new Document("url", jatetxea.getURL())
+                new Document("$set", new Document("url", jatetxea.getUrl())
                         .append("address", jatetxea.getAddress())
                         .append("address_line_2", jatetxea.getAddress_line_2())
                         .append("name", jatetxea.getName())

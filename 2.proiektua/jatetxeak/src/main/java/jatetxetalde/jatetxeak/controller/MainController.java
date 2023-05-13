@@ -68,7 +68,7 @@ public class MainController {
 									@RequestParam String type_of_food) {
 										Jatetxea jatetxea = new Jatetxea();
 										jatetxea.setId(_id);
-										jatetxea.setURL(url);
+										jatetxea.setUrl(url);
 										jatetxea.setAddress(address);
 										jatetxea.setAddress_line_2(address_line_2);
 										jatetxea.setName(name);
@@ -93,7 +93,7 @@ public class MainController {
 
 		Jatetxea jatetxea = new Jatetxea();
 		jatetxea.setId(_id);
-        jatetxea.setURL(url);
+        jatetxea.setUrl(url);
         jatetxea.setAddress(address);
         jatetxea.setAddress_line_2(address_line_2);
         jatetxea.setName(name);

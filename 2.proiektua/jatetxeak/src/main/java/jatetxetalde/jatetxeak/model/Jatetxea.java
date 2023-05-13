@@ -34,12 +34,12 @@ public class Jatetxea {
 
 
 
-
-	public String getURL() {
+	//set/getURL EZ!!
+	public String getUrl() {
 		return url;
 	}
 
-	public void setURL(String url) {
+	public void setUrl(String url) {
 		this.url = url;
 	}
 
