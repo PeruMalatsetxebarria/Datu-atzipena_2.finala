@@ -8,11 +8,11 @@ import org.springframework.stereotype.Repository;
 public interface JatetxeakRepository {
     List<Jatetxea> findAll();
     List<Jatetxea> findName(String name);
-    List<Jatetxea> findId(String _id);
+    List<Jatetxea> findId(int _id);
     Jatetxea save(Jatetxea jat);
     Jatetxea updateJatetxea(Jatetxea jatetxea);
     Jatetxea updateHelbidea(Jatetxea jatetxea);
     long delete(String name);
-    long deleteId(String _id);
+    long deleteId(int _id);
     void deleteDanak();
 }

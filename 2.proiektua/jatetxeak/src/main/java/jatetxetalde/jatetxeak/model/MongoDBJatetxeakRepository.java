@@ -57,7 +57,7 @@ public class MongoDBJatetxeakRepository implements JatetxeakRepository {
     }
 
     @Override
-    public List<Jatetxea> findId(String _id) {
+    public List<Jatetxea> findId(int _id) {
         return jatetxeaCollection.find(Filters.eq("_id", _id)).into(new ArrayList<>());
     }
 
@@ -74,7 +74,7 @@ public class MongoDBJatetxeakRepository implements JatetxeakRepository {
     }
 
     @Override
-    public long deleteId(String _id) {
+    public long deleteId(int _id) {
         return jatetxeaCollection.deleteMany(Filters.eq("_id", _id)).getDeletedCount();
     }
 

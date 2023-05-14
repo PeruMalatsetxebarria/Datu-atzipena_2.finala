@@ -41,13 +41,12 @@ public class MainController {
 	}
 
 	@GetMapping(path = "/jatetxebatid/{id}")
-	public @ResponseBody Iterable<Jatetxea> getJatetxeBatId(@RequestParam String _id) {
+	public @ResponseBody Iterable<Jatetxea> getJatetxeBatId(@RequestParam int _id) {
 		return jatetxeakRepository.findId(_id);
 	}
 
-
 	@PutMapping("/helbidealdatu/{id}")
-	public Jatetxea updateHelbidea(@RequestParam String _id,
+	public Jatetxea updateHelbidea(@RequestParam int _id,
 									@RequestParam String address) {
 										Jatetxea jatetxea = new Jatetxea();
 										jatetxea.setId(_id);
@@ -57,7 +56,7 @@ public class MainController {
 	}
 
 	@PutMapping("/jatetxealdatu/{id}")
-	public Jatetxea updateJatetxea(@RequestParam String _id,
+	public Jatetxea updateJatetxea(@RequestParam int _id,
 									@RequestParam String url,
 									@RequestParam String address,
 									@RequestParam String address_line_2,
@@ -80,16 +79,8 @@ public class MainController {
 		return jatetxea;
 	}
 
-
-
-
-
-
-
-
-
 	@PostMapping(path = "/jatetxeberria")
-	public @ResponseBody String addNewUser(@RequestParam String _id, @RequestParam String url, @RequestParam String address, @RequestParam String address_line_2, @RequestParam String name, @RequestParam String outcode, @RequestParam String postcode, @RequestParam int rating, @RequestParam String type_of_food) {
+	public @ResponseBody String addNewUser(@RequestParam int _id, @RequestParam String url, @RequestParam String address, @RequestParam String address_line_2, @RequestParam String name, @RequestParam String outcode, @RequestParam String postcode, @RequestParam int rating, @RequestParam String type_of_food) {
 
 		Jatetxea jatetxea = new Jatetxea();
 		jatetxea.setId(_id);
@@ -103,16 +94,10 @@ public class MainController {
         jatetxea.setType_of_food(type_of_food);
 		jatetxeakRepository.save(jatetxea);
 		return "Saved";
+		
 	}
 
-
-
-
-
-
-
-
-	@DeleteMapping(path = "/ezabatu/{name}")
+	@DeleteMapping(path = "/ezabatubatizena/{name}")
 	public ResponseEntity<Void> deleteJatetxea(@PathVariable String name) {
 		try {
 			long zenbat = jatetxeakRepository.delete(name);
@@ -120,24 +105,23 @@ public class MainController {
 			return ResponseEntity.ok().build();
 
 		} catch (Exception ex) {
-			System.out.println("Errorea " + name + " jatetxea ezabatzerakoan. ");
+			System.out.println("Errorea " + name + " izeneko jatetxea ezabatzerakoan. ");
 			return ResponseEntity.notFound().build();
 		}
 	}
 
-	@DeleteMapping(path = "/ezabatu/{_id}")
-	public ResponseEntity<Void> deleteJatetxeaId(@PathVariable String _id) {
+	@DeleteMapping(path = "/ezabatubatid/{_id}")
+	public ResponseEntity<Void> deleteJatetxeaId(@PathVariable int _id) {
 		try {
-			long zenbat = jatetxeakRepository.delete(_id);
+			long zenbat = jatetxeakRepository.deleteId(_id);
 			System.out.println("Ezabatutako jatetxe kopurua🔆: "+zenbat);
 			return ResponseEntity.ok().build();
 
 		} catch (Exception ex) {
-			System.out.println("Errorea " + _id + " jatetxea ezabatzerakoan. ");
+			System.out.println("Errorea " + _id + " id-a duen jatetxea ezabatzerakoan. ");
 			return ResponseEntity.notFound().build();
 		}
 	}
-
 
 	@DeleteMapping(path = "/ezabatuDenak")
 	public ResponseEntity<Void> deleteJatetxeak() {

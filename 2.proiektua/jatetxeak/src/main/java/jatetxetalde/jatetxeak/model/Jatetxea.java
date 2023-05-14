@@ -5,8 +5,7 @@ import java.util.List;
 import org.bson.types.ObjectId;
 
 public class Jatetxea {
-	//private int _id;
-    private String _id;
+	private int _id;
 	private String url;
     private String address;
     private String address_line_2;
@@ -17,22 +16,13 @@ public class Jatetxea {
 	private String type_of_food;
 
 
-    /*public int getId() {
-		return _id;//return Integer.parseInt(_id);Integer.toString(_id)
+    public int getId() {
+		return _id;
 	}
 
 	public void setId(int _id) {
 		this._id = _id;
-	}*/
-	public String getId() {
-		return _id;
 	}
-
-	public void setId(String _id) {
-		this._id = _id;
-	}
-
-
 
 	//set/getURL EZ!!
 	public String getUrl() {
