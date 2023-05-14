@@ -124,4 +124,31 @@ public class MainController {
 			return ResponseEntity.notFound().build();
 		}
 	}
+
+	@DeleteMapping(path = "/ezabatu/{_id}")
+	public ResponseEntity<Void> deleteJatetxeaId(@PathVariable String _id) {
+		try {
+			long zenbat = jatetxeakRepository.delete(_id);
+			System.out.println("Ezabatutako jatetxe kopurua🔆: "+zenbat);
+			return ResponseEntity.ok().build();
+
+		} catch (Exception ex) {
+			System.out.println("Errorea " + _id + " jatetxea ezabatzerakoan. ");
+			return ResponseEntity.notFound().build();
+		}
+	}
+
+
+	@DeleteMapping(path = "/ezabatuDenak")
+	public ResponseEntity<Void> deleteJatetxeak() {
+		try {
+			jatetxeakRepository.deleteDanak();
+			System.out.println("Jatetxe denak ezabatu dira");
+			return ResponseEntity.ok().build();
+
+		} catch (Exception ex) {
+			System.out.println("Errorea jatetxeak ezabatzerakoan. ");
+			return ResponseEntity.notFound().build();
+		}
+	}
 }

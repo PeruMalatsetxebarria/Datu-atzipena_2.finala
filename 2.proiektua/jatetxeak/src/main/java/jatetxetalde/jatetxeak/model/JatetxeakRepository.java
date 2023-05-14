@@ -13,4 +13,6 @@ public interface JatetxeakRepository {
     Jatetxea updateJatetxea(Jatetxea jatetxea);
     Jatetxea updateHelbidea(Jatetxea jatetxea);
     long delete(String name);
+    long deleteId(String _id);
+    void deleteDanak();
 }

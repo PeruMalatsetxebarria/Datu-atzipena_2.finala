@@ -19,10 +19,18 @@ import com.mongodb.client.MongoCollection;
 import com.mongodb.client.model.Filters;//
 
 
+
+import javax.persistence.EntityManager;
+import javax.persistence.PersistenceContext;
+
+
 //import static com.mongodb.client.model.Filters.eq;
 
 @Repository
 public class MongoDBJatetxeakRepository implements JatetxeakRepository {
+
+    @PersistenceContext
+    private EntityManager entityManager;
 
     private static final TransactionOptions txnOptions = TransactionOptions.builder()
                                                                            .readPreference(ReadPreference.primary())
@@ -64,6 +72,20 @@ public class MongoDBJatetxeakRepository implements JatetxeakRepository {
     public long delete(String name) {
         return jatetxeaCollection.deleteMany(Filters.eq("name", name)).getDeletedCount();
     }
+
+    @Override
+    public long deleteId(String _id) {
+        return jatetxeaCollection.deleteMany(Filters.eq("_id", _id)).getDeletedCount();
+    }
+
+
+    
+    @Override
+    public void deleteDanak() {
+        jatetxeaCollection.deleteMany(new Document());
+    }
+
+    
 
     @Override
     public Jatetxea updateHelbidea(Jatetxea jatetxea) {
