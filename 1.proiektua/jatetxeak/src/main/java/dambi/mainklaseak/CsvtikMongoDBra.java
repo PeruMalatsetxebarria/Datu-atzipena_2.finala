@@ -26,7 +26,7 @@ public class CsvtikMongoDBra {
                         .append("field2", fields[1])
                         .append("field3", fields[2]);
                 collection.insertOne(doc);*/
-                Document doc = new Document("_id", fields[0])
+                Document doc = new Document("_id", Integer.parseInt(fields[0]))
                         .append("url", fields[1])
                         .append("address", fields[2])
                         .append("address_line_2", fields[3])
